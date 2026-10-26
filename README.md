@@ -5,6 +5,7 @@ Optional resource packs for the **Island SMP** Minecraft server (Java Edition). 
 | Pack | Folder | What it does |
 |---|---|---|
 | XP Tome | `xp-tome/` | Purple book texture for the XP Tome item |
+| XP Tome (Bedrock) | `xp-tome-bedrock/` | Native Bedrock `.mcpack` (`pack/`) + Geyser custom item mapping (`geyser/`); the server sends it to Bedrock players through Geyser, not through `/rp` |
 
 Each pack is released separately (tag `<pack>-<version>`, e.g. `xp-tome-1.0.0`) with its own zip. A released zip is never edited; a change means a new release.
 

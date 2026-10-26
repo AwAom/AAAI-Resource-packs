@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "AAAI XP Tome (Bedrock)",
+    "description": "Purple book texture for the XP Tome item",
+    "uuid": "7c1a9f3e-52d4-4b8a-9e61-3f0d8a2b6c17",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "e4b2d8a1-6f39-4c07-b5a2-91d7c3e80f45",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

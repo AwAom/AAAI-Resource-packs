@@ -1,0 +1,9 @@
+{
+  "resource_pack_name": "aaai",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "aaai.xp_tome": {
+      "textures": "textures/items/xp_tome"
+    }
+  }
+}

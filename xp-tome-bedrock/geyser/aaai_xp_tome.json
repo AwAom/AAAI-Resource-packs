@@ -1,0 +1,27 @@
+{
+  "format_version": 2,
+  "items": {
+    "minecraft:book": [
+      {
+        "type": "definition",
+        "model": "minecraft:book",
+        "bedrock_identifier": "aaai:xp_tome",
+        "display_name": "XP Tome",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "xp_tome"
+        },
+        "bedrock_options": {
+          "icon": "aaai.xp_tome",
+          "creative_category": "items"
+        },
+        "components": {
+          "minecraft:max_damage": 100,
+          "minecraft:max_stack_size": 1
+        }
+      }
+    ]
+  }
+}
