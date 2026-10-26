@@ -19,7 +19,11 @@
         },
         "components": {
           "minecraft:max_damage": 100,
-          "minecraft:max_stack_size": 1
+          "minecraft:max_stack_size": 1,
+          "minecraft:consumable": {
+            "consume_seconds": 0.2,
+            "animation": "none"
+          }
         }
       }
     ]
