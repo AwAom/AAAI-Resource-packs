@@ -3,11 +3,11 @@
   "header": {
     "name": "AAAI Advanced Netherite (Bedrock)",
     "description": "Icons for the Advanced Netherite tiers (GPL-3.0)",
-    "uuid": "ddd24290-399a-4c3c-a866-5ec0b5c17926",
+    "uuid": "edf49195-581e-40d0-9692-93451f7850e9",
     "version": [
       1,
       1,
-      10
+      12
     ],
     "min_engine_version": [
       1,
@@ -18,11 +18,11 @@
   "modules": [
     {
       "type": "resources",
-      "uuid": "260b9271-12fd-4a94-b9c4-51b647b68126",
+      "uuid": "38b502a2-a30c-4069-84a7-a61c91d55123",
       "version": [
         1,
         1,
-        10
+        12
       ]
     }
   ]
