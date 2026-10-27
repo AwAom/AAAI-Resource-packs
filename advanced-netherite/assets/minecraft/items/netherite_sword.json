@@ -31,6 +31,20 @@
           "type": "minecraft:model",
           "model": "advancednetherite:item/netherite_diamond_sword"
         }
+      },
+      {
+        "when": "netherite_warden_sword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "deeperdarker:item/warden_sword"
+        }
+      },
+      {
+        "when": "netherite_blackdragon_sword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dragonloot:item/dragon_sword"
+        }
       }
     ],
     "fallback": {

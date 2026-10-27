@@ -241,6 +241,48 @@
           "minecraft:max_stack_size": 1,
           "minecraft:max_damage": 3092
         }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_sword",
+        "bedrock_identifier": "aaai:netherite_warden_sword",
+        "display_name": "Warden Sword",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_warden_sword"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_warden_sword",
+          "creative_category": "equipment",
+          "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 2519
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_sword",
+        "bedrock_identifier": "aaai:netherite_blackdragon_sword",
+        "display_name": "Black Dragon Sword",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_blackdragon_sword"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_blackdragon_sword",
+          "creative_category": "equipment",
+          "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 2479
+        }
       }
     ],
     "minecraft:netherite_pickaxe": [
@@ -366,6 +408,70 @@
               {
                 "blocks": "#minecraft:mineable/pickaxe",
                 "speed": 39.0,
+                "correct_for_drops": true
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_pickaxe",
+        "bedrock_identifier": "aaai:netherite_warden_pickaxe",
+        "display_name": "Warden Pickaxe",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_warden_pickaxe"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_warden_pickaxe",
+          "creative_category": "equipment",
+          "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 2519,
+          "minecraft:tool": {
+            "default_mining_speed": 1.0,
+            "damage_per_block": 1,
+            "rules": [
+              {
+                "blocks": "#minecraft:mineable/pickaxe",
+                "speed": 10.0,
+                "correct_for_drops": true
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_pickaxe",
+        "bedrock_identifier": "aaai:netherite_blackdragon_pickaxe",
+        "display_name": "Black Dragon Pickaxe",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_blackdragon_pickaxe"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_blackdragon_pickaxe",
+          "creative_category": "equipment",
+          "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 2479,
+          "minecraft:tool": {
+            "default_mining_speed": 1.0,
+            "damage_per_block": 1,
+            "rules": [
+              {
+                "blocks": "#minecraft:mineable/pickaxe",
+                "speed": 12.0,
                 "correct_for_drops": true
               }
             ]
@@ -501,6 +607,70 @@
             ]
           }
         }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_axe",
+        "bedrock_identifier": "aaai:netherite_warden_axe",
+        "display_name": "Warden Axe",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_warden_axe"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_warden_axe",
+          "creative_category": "equipment",
+          "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 2519,
+          "minecraft:tool": {
+            "default_mining_speed": 1.0,
+            "damage_per_block": 1,
+            "rules": [
+              {
+                "blocks": "#minecraft:mineable/axe",
+                "speed": 10.0,
+                "correct_for_drops": true
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_axe",
+        "bedrock_identifier": "aaai:netherite_blackdragon_axe",
+        "display_name": "Black Dragon Axe",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_blackdragon_axe"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_blackdragon_axe",
+          "creative_category": "equipment",
+          "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 2479,
+          "minecraft:tool": {
+            "default_mining_speed": 1.0,
+            "damage_per_block": 1,
+            "rules": [
+              {
+                "blocks": "#minecraft:mineable/axe",
+                "speed": 12.0,
+                "correct_for_drops": true
+              }
+            ]
+          }
+        }
       }
     ],
     "minecraft:netherite_shovel": [
@@ -626,6 +796,70 @@
               {
                 "blocks": "#minecraft:mineable/shovel",
                 "speed": 39.0,
+                "correct_for_drops": true
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_shovel",
+        "bedrock_identifier": "aaai:netherite_warden_shovel",
+        "display_name": "Warden Shovel",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_warden_shovel"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_warden_shovel",
+          "creative_category": "equipment",
+          "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 2519,
+          "minecraft:tool": {
+            "default_mining_speed": 1.0,
+            "damage_per_block": 1,
+            "rules": [
+              {
+                "blocks": "#minecraft:mineable/shovel",
+                "speed": 10.0,
+                "correct_for_drops": true
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_shovel",
+        "bedrock_identifier": "aaai:netherite_blackdragon_shovel",
+        "display_name": "Black Dragon Shovel",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_blackdragon_shovel"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_blackdragon_shovel",
+          "creative_category": "equipment",
+          "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 2479,
+          "minecraft:tool": {
+            "default_mining_speed": 1.0,
+            "damage_per_block": 1,
+            "rules": [
+              {
+                "blocks": "#minecraft:mineable/shovel",
+                "speed": 12.0,
                 "correct_for_drops": true
               }
             ]
@@ -761,6 +995,70 @@
             ]
           }
         }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_hoe",
+        "bedrock_identifier": "aaai:netherite_warden_hoe",
+        "display_name": "Warden Hoe",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_warden_hoe"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_warden_hoe",
+          "creative_category": "equipment",
+          "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 2519,
+          "minecraft:tool": {
+            "default_mining_speed": 1.0,
+            "damage_per_block": 1,
+            "rules": [
+              {
+                "blocks": "#minecraft:mineable/hoe",
+                "speed": 10.0,
+                "correct_for_drops": true
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_hoe",
+        "bedrock_identifier": "aaai:netherite_blackdragon_hoe",
+        "display_name": "Black Dragon Hoe",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_blackdragon_hoe"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_blackdragon_hoe",
+          "creative_category": "equipment",
+          "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 2479,
+          "minecraft:tool": {
+            "default_mining_speed": 1.0,
+            "damage_per_block": 1,
+            "rules": [
+              {
+                "blocks": "#minecraft:mineable/hoe",
+                "speed": 12.0,
+                "correct_for_drops": true
+              }
+            ]
+          }
+        }
       }
     ],
     "minecraft:netherite_helmet": [
@@ -858,6 +1156,54 @@
           },
           "minecraft:max_stack_size": 1,
           "minecraft:max_damage": 517
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_helmet",
+        "bedrock_identifier": "aaai:netherite_warden_helmet",
+        "display_name": "Warden Helmet",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_warden_helmet"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_warden_helmet",
+          "protection_value": 4,
+          "creative_category": "equipment"
+        },
+        "components": {
+          "minecraft:equippable": {
+            "slot": "head"
+          },
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 440
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_helmet",
+        "bedrock_identifier": "aaai:netherite_blackdragon_helmet",
+        "display_name": "Black Dragon Helmet",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_blackdragon_helmet"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_blackdragon_helmet",
+          "protection_value": 7,
+          "creative_category": "equipment"
+        },
+        "components": {
+          "minecraft:equippable": {
+            "slot": "head"
+          },
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 962
         }
       }
     ],
@@ -957,6 +1303,54 @@
           "minecraft:max_stack_size": 1,
           "minecraft:max_damage": 752
         }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_chestplate",
+        "bedrock_identifier": "aaai:netherite_warden_chestplate",
+        "display_name": "Warden Chestplate",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_warden_chestplate"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_warden_chestplate",
+          "protection_value": 9,
+          "creative_category": "equipment"
+        },
+        "components": {
+          "minecraft:equippable": {
+            "slot": "chest"
+          },
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 640
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_chestplate",
+        "bedrock_identifier": "aaai:netherite_blackdragon_chestplate",
+        "display_name": "Black Dragon Chestplate",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_blackdragon_chestplate"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_blackdragon_chestplate",
+          "protection_value": 10,
+          "creative_category": "equipment"
+        },
+        "components": {
+          "minecraft:equippable": {
+            "slot": "chest"
+          },
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 1295
+        }
       }
     ],
     "minecraft:netherite_leggings": [
@@ -1055,6 +1449,54 @@
           "minecraft:max_stack_size": 1,
           "minecraft:max_damage": 705
         }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_leggings",
+        "bedrock_identifier": "aaai:netherite_warden_leggings",
+        "display_name": "Warden Leggings",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_warden_leggings"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_warden_leggings",
+          "protection_value": 7,
+          "creative_category": "equipment"
+        },
+        "components": {
+          "minecraft:equippable": {
+            "slot": "legs"
+          },
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 600
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_leggings",
+        "bedrock_identifier": "aaai:netherite_blackdragon_leggings",
+        "display_name": "Black Dragon Leggings",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_blackdragon_leggings"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_blackdragon_leggings",
+          "protection_value": 9,
+          "creative_category": "equipment"
+        },
+        "components": {
+          "minecraft:equippable": {
+            "slot": "legs"
+          },
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 1184
+        }
       }
     ],
     "minecraft:netherite_boots": [
@@ -1152,6 +1594,138 @@
           },
           "minecraft:max_stack_size": 1,
           "minecraft:max_damage": 611
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_boots",
+        "bedrock_identifier": "aaai:netherite_warden_boots",
+        "display_name": "Warden Boots",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_warden_boots"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_warden_boots",
+          "protection_value": 4,
+          "creative_category": "equipment"
+        },
+        "components": {
+          "minecraft:equippable": {
+            "slot": "feet"
+          },
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 520
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_boots",
+        "bedrock_identifier": "aaai:netherite_blackdragon_boots",
+        "display_name": "Black Dragon Boots",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_blackdragon_boots"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_blackdragon_boots",
+          "protection_value": 7,
+          "creative_category": "equipment"
+        },
+        "components": {
+          "minecraft:equippable": {
+            "slot": "feet"
+          },
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 1036
+        }
+      }
+    ],
+    "minecraft:nautilus_shell": [
+      {
+        "type": "definition",
+        "model": "minecraft:nautilus_shell",
+        "bedrock_identifier": "aaai:warden_carapace",
+        "display_name": "Warden Carapace",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "warden_carapace"
+        },
+        "bedrock_options": {
+          "icon": "aaai.warden_carapace",
+          "creative_category": "items"
+        },
+        "components": {
+          "minecraft:max_stack_size": 64
+        }
+      }
+    ],
+    "minecraft:echo_shard": [
+      {
+        "type": "definition",
+        "model": "minecraft:echo_shard",
+        "bedrock_identifier": "aaai:reinforced_echo_shard",
+        "display_name": "Reinforced Echo Shard",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "reinforced_echo_shard"
+        },
+        "bedrock_options": {
+          "icon": "aaai.reinforced_echo_shard",
+          "creative_category": "items"
+        },
+        "components": {
+          "minecraft:max_stack_size": 64
+        }
+      }
+    ],
+    "minecraft:netherite_upgrade_smithing_template": [
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_upgrade_smithing_template",
+        "bedrock_identifier": "aaai:warden_upgrade_smithing_template",
+        "display_name": "Warden Upgrade Smithing Template",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "warden_upgrade_smithing_template"
+        },
+        "bedrock_options": {
+          "icon": "aaai.warden_upgrade_smithing_template",
+          "creative_category": "items"
+        },
+        "components": {
+          "minecraft:max_stack_size": 64
+        }
+      }
+    ],
+    "minecraft:dragon_breath": [
+      {
+        "type": "definition",
+        "model": "minecraft:dragon_breath",
+        "bedrock_identifier": "aaai:black_dragon_scale",
+        "display_name": "Black Dragon Scale",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "black_dragon_scale"
+        },
+        "bedrock_options": {
+          "icon": "aaai.black_dragon_scale",
+          "creative_category": "items"
+        },
+        "components": {
+          "minecraft:max_stack_size": 64
         }
       }
     ]

@@ -31,6 +31,20 @@
           "type": "minecraft:model",
           "model": "advancednetherite:item/netherite_diamond_axe"
         }
+      },
+      {
+        "when": "netherite_warden_axe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "deeperdarker:item/warden_axe"
+        }
+      },
+      {
+        "when": "netherite_blackdragon_axe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dragonloot:item/dragon_axe"
+        }
       }
     ],
     "fallback": {

@@ -363,6 +363,20 @@
           },
           "property": "minecraft:trim_material"
         }
+      },
+      {
+        "when": "netherite_warden_boots",
+        "model": {
+          "type": "minecraft:model",
+          "model": "deeperdarker:item/warden_boots"
+        }
+      },
+      {
+        "when": "netherite_blackdragon_boots",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dragonloot:item/dragon_boots"
+        }
       }
     ],
     "fallback": {

@@ -31,6 +31,20 @@
           "type": "minecraft:model",
           "model": "advancednetherite:item/netherite_diamond_shovel"
         }
+      },
+      {
+        "when": "netherite_warden_shovel",
+        "model": {
+          "type": "minecraft:model",
+          "model": "deeperdarker:item/warden_shovel"
+        }
+      },
+      {
+        "when": "netherite_blackdragon_shovel",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dragonloot:item/dragon_shovel"
+        }
       }
     ],
     "fallback": {

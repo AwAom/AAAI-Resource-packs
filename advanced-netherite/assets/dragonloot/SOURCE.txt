@@ -1,0 +1,2 @@
+Textures: DragonLoot by Pois1x / Globox_Z, GPL-3.0 (the project README and Modrinth say GPL; CurseForge lists All Rights Reserved - owner approved use on 2026-10-27), https://github.com/GitPois1x/DragonLoot (commit ff4b2d74b163c1cb069ec53f8f1aa1ec0be8e97e).
+Item/equipment JSON written for AAAI-RM-AdvanceNetherite.

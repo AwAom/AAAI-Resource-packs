@@ -31,6 +31,20 @@
           "type": "minecraft:model",
           "model": "advancednetherite:item/netherite_diamond_pickaxe"
         }
+      },
+      {
+        "when": "netherite_warden_pickaxe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "deeperdarker:item/warden_pickaxe"
+        }
+      },
+      {
+        "when": "netherite_blackdragon_pickaxe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dragonloot:item/dragon_pickaxe"
+        }
       }
     ],
     "fallback": {

@@ -363,6 +363,20 @@
           },
           "property": "minecraft:trim_material"
         }
+      },
+      {
+        "when": "netherite_warden_chestplate",
+        "model": {
+          "type": "minecraft:model",
+          "model": "deeperdarker:item/warden_chestplate"
+        }
+      },
+      {
+        "when": "netherite_blackdragon_chestplate",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dragonloot:item/dragon_chestplate"
+        }
       }
     ],
     "fallback": {

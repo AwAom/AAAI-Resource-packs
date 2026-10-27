@@ -363,6 +363,46 @@
           },
           "property": "minecraft:trim_material"
         }
+      },
+      {
+        "when": "netherite_warden_helmet",
+        "model": {
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
+            {
+              "when": "head",
+              "model": {
+                "type": "minecraft:model",
+                "model": "deeperdarker:item/warden_helmet_worn"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "deeperdarker:item/warden_helmet"
+          }
+        }
+      },
+      {
+        "when": "netherite_blackdragon_helmet",
+        "model": {
+          "type": "minecraft:select",
+          "property": "minecraft:display_context",
+          "cases": [
+            {
+              "when": "head",
+              "model": {
+                "type": "minecraft:model",
+                "model": "dragonloot:item/dragon_helmet_worn"
+              }
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "dragonloot:item/dragon_helmet"
+          }
+        }
       }
     ],
     "fallback": {

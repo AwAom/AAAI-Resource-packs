@@ -363,6 +363,20 @@
           },
           "property": "minecraft:trim_material"
         }
+      },
+      {
+        "when": "netherite_warden_leggings",
+        "model": {
+          "type": "minecraft:model",
+          "model": "deeperdarker:item/warden_leggings"
+        }
+      },
+      {
+        "when": "netherite_blackdragon_leggings",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dragonloot:item/dragon_leggings"
+        }
       }
     ],
     "fallback": {

@@ -133,6 +133,72 @@
     },
     "aaai.netherite_diamond_boots": {
       "textures": "textures/items/netherite_diamond_boots"
+    },
+    "aaai.netherite_warden_sword": {
+      "textures": "textures/items/netherite_warden_sword"
+    },
+    "aaai.netherite_warden_pickaxe": {
+      "textures": "textures/items/netherite_warden_pickaxe"
+    },
+    "aaai.netherite_warden_axe": {
+      "textures": "textures/items/netherite_warden_axe"
+    },
+    "aaai.netherite_warden_shovel": {
+      "textures": "textures/items/netherite_warden_shovel"
+    },
+    "aaai.netherite_warden_hoe": {
+      "textures": "textures/items/netherite_warden_hoe"
+    },
+    "aaai.netherite_warden_helmet": {
+      "textures": "textures/items/netherite_warden_helmet"
+    },
+    "aaai.netherite_warden_chestplate": {
+      "textures": "textures/items/netherite_warden_chestplate"
+    },
+    "aaai.netherite_warden_leggings": {
+      "textures": "textures/items/netherite_warden_leggings"
+    },
+    "aaai.netherite_warden_boots": {
+      "textures": "textures/items/netherite_warden_boots"
+    },
+    "aaai.netherite_blackdragon_sword": {
+      "textures": "textures/items/netherite_blackdragon_sword"
+    },
+    "aaai.netherite_blackdragon_pickaxe": {
+      "textures": "textures/items/netherite_blackdragon_pickaxe"
+    },
+    "aaai.netherite_blackdragon_axe": {
+      "textures": "textures/items/netherite_blackdragon_axe"
+    },
+    "aaai.netherite_blackdragon_shovel": {
+      "textures": "textures/items/netherite_blackdragon_shovel"
+    },
+    "aaai.netherite_blackdragon_hoe": {
+      "textures": "textures/items/netherite_blackdragon_hoe"
+    },
+    "aaai.netherite_blackdragon_helmet": {
+      "textures": "textures/items/netherite_blackdragon_helmet"
+    },
+    "aaai.netherite_blackdragon_chestplate": {
+      "textures": "textures/items/netherite_blackdragon_chestplate"
+    },
+    "aaai.netherite_blackdragon_leggings": {
+      "textures": "textures/items/netherite_blackdragon_leggings"
+    },
+    "aaai.netherite_blackdragon_boots": {
+      "textures": "textures/items/netherite_blackdragon_boots"
+    },
+    "aaai.warden_carapace": {
+      "textures": "textures/items/warden_carapace"
+    },
+    "aaai.reinforced_echo_shard": {
+      "textures": "textures/items/reinforced_echo_shard"
+    },
+    "aaai.warden_upgrade_smithing_template": {
+      "textures": "textures/items/warden_upgrade_smithing_template"
+    },
+    "aaai.black_dragon_scale": {
+      "textures": "textures/items/black_dragon_scale"
     }
   }
 }

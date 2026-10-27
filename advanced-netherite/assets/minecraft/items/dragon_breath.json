@@ -1,0 +1,20 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "cases": [
+      {
+        "when": "black_dragon_scale",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dragonloot:item/dragon_scale"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/dragon_breath"
+    }
+  }
+}

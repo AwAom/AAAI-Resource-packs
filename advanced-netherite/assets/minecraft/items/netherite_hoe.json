@@ -31,6 +31,20 @@
           "type": "minecraft:model",
           "model": "advancednetherite:item/netherite_diamond_hoe"
         }
+      },
+      {
+        "when": "netherite_warden_hoe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "deeperdarker:item/warden_hoe"
+        }
+      },
+      {
+        "when": "netherite_blackdragon_hoe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "dragonloot:item/dragon_hoe"
+        }
       }
     ],
     "fallback": {
