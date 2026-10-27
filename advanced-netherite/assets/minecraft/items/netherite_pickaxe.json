@@ -1,0 +1,54 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "cases": [
+      {
+        "when": "netherite_iron_pickaxe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "advancednetherite:item/netherite_iron_pickaxe"
+        }
+      },
+      {
+        "when": "netherite_gold_pickaxe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "advancednetherite:item/netherite_gold_pickaxe"
+        }
+      },
+      {
+        "when": "netherite_emerald_pickaxe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "advancednetherite:item/netherite_emerald_pickaxe"
+        }
+      },
+      {
+        "when": "netherite_diamond_pickaxe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "advancednetherite:item/netherite_diamond_pickaxe"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:range_dispatch",
+      "property": "minecraft:custom_model_data",
+      "entries": [
+        {
+          "threshold": 1450500,
+          "model": {
+            "type": "minecraft:model",
+            "model": "incendium:item/hefty"
+          }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/netherite_pickaxe"
+      }
+    }
+  }
+}

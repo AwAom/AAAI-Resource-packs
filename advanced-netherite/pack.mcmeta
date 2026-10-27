@@ -1,0 +1,7 @@
+{
+  "pack": {
+    "description": "AAAI RM Advanced Netherite (GPL-3.0, from Autovw/AdvancedNetherite)",
+    "min_format": [88, 0],
+    "max_format": [88, 0]
+  }
+}

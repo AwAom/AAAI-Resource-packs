@@ -1,0 +1,41 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "cases": [
+      {
+        "when": "netherite_iron_hoe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "advancednetherite:item/netherite_iron_hoe"
+        }
+      },
+      {
+        "when": "netherite_gold_hoe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "advancednetherite:item/netherite_gold_hoe"
+        }
+      },
+      {
+        "when": "netherite_emerald_hoe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "advancednetherite:item/netherite_emerald_hoe"
+        }
+      },
+      {
+        "when": "netherite_diamond_hoe",
+        "model": {
+          "type": "minecraft:model",
+          "model": "advancednetherite:item/netherite_diamond_hoe"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/netherite_hoe"
+    }
+  }
+}

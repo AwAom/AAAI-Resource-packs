@@ -1,0 +1,41 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "cases": [
+      {
+        "when": "netherite_iron_shovel",
+        "model": {
+          "type": "minecraft:model",
+          "model": "advancednetherite:item/netherite_iron_shovel"
+        }
+      },
+      {
+        "when": "netherite_gold_shovel",
+        "model": {
+          "type": "minecraft:model",
+          "model": "advancednetherite:item/netherite_gold_shovel"
+        }
+      },
+      {
+        "when": "netherite_emerald_shovel",
+        "model": {
+          "type": "minecraft:model",
+          "model": "advancednetherite:item/netherite_emerald_shovel"
+        }
+      },
+      {
+        "when": "netherite_diamond_shovel",
+        "model": {
+          "type": "minecraft:model",
+          "model": "advancednetherite:item/netherite_diamond_shovel"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/netherite_shovel"
+    }
+  }
+}

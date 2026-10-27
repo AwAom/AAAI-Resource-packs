@@ -1,0 +1,1159 @@
+{
+  "format_version": 2,
+  "items": {
+    "minecraft:netherite_ingot": [
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_ingot",
+        "bedrock_identifier": "aaai:netherite_iron_ingot",
+        "display_name": "Netherite Iron Ingot",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_iron_ingot"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_iron_ingot",
+          "creative_category": "items"
+        },
+        "components": {
+          "minecraft:max_stack_size": 64
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_ingot",
+        "bedrock_identifier": "aaai:netherite_gold_ingot",
+        "display_name": "Netherite Gold Ingot",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_gold_ingot"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_gold_ingot",
+          "creative_category": "items"
+        },
+        "components": {
+          "minecraft:max_stack_size": 64
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_ingot",
+        "bedrock_identifier": "aaai:netherite_emerald_ingot",
+        "display_name": "Netherite Emerald Ingot",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_emerald_ingot"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_emerald_ingot",
+          "creative_category": "items"
+        },
+        "components": {
+          "minecraft:max_stack_size": 64
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_ingot",
+        "bedrock_identifier": "aaai:netherite_diamond_ingot",
+        "display_name": "Netherite Diamond Ingot",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_diamond_ingot"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_diamond_ingot",
+          "creative_category": "items"
+        },
+        "components": {
+          "minecraft:max_stack_size": 64
+        }
+      }
+    ],
+    "minecraft:netherite_block": [
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_block",
+        "bedrock_identifier": "aaai:netherite_iron_block",
+        "display_name": "Netherite Iron Block",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_iron_block"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_iron_block",
+          "creative_category": "construction"
+        },
+        "components": {
+          "minecraft:max_stack_size": 64
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_block",
+        "bedrock_identifier": "aaai:netherite_gold_block",
+        "display_name": "Netherite Gold Block",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_gold_block"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_gold_block",
+          "creative_category": "construction"
+        },
+        "components": {
+          "minecraft:max_stack_size": 64
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_block",
+        "bedrock_identifier": "aaai:netherite_emerald_block",
+        "display_name": "Netherite Emerald Block",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_emerald_block"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_emerald_block",
+          "creative_category": "construction"
+        },
+        "components": {
+          "minecraft:max_stack_size": 64
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_block",
+        "bedrock_identifier": "aaai:netherite_diamond_block",
+        "display_name": "Netherite Diamond Block",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_diamond_block"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_diamond_block",
+          "creative_category": "construction"
+        },
+        "components": {
+          "minecraft:max_stack_size": 64
+        }
+      }
+    ],
+    "minecraft:netherite_sword": [
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_sword",
+        "bedrock_identifier": "aaai:netherite_iron_sword",
+        "display_name": "Netherite Iron Sword",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_iron_sword"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_iron_sword",
+          "creative_category": "equipment",
+          "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 2281
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_sword",
+        "bedrock_identifier": "aaai:netherite_gold_sword",
+        "display_name": "Netherite Gold Sword",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_gold_sword"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_gold_sword",
+          "creative_category": "equipment",
+          "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 2313
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_sword",
+        "bedrock_identifier": "aaai:netherite_emerald_sword",
+        "display_name": "Netherite Emerald Sword",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_emerald_sword"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_emerald_sword",
+          "creative_category": "equipment",
+          "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 2651
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_sword",
+        "bedrock_identifier": "aaai:netherite_diamond_sword",
+        "display_name": "Netherite Diamond Sword",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_diamond_sword"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_diamond_sword",
+          "creative_category": "equipment",
+          "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 3092
+        }
+      }
+    ],
+    "minecraft:netherite_pickaxe": [
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_pickaxe",
+        "bedrock_identifier": "aaai:netherite_iron_pickaxe",
+        "display_name": "Netherite Iron Pickaxe",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_iron_pickaxe"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_iron_pickaxe",
+          "creative_category": "equipment",
+          "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 2281,
+          "minecraft:tool": {
+            "default_mining_speed": 1.0,
+            "damage_per_block": 1,
+            "rules": [
+              {
+                "blocks": "#minecraft:mineable/pickaxe",
+                "speed": 12.0,
+                "correct_for_drops": true
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_pickaxe",
+        "bedrock_identifier": "aaai:netherite_gold_pickaxe",
+        "display_name": "Netherite Gold Pickaxe",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_gold_pickaxe"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_gold_pickaxe",
+          "creative_category": "equipment",
+          "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 2313,
+          "minecraft:tool": {
+            "default_mining_speed": 1.0,
+            "damage_per_block": 1,
+            "rules": [
+              {
+                "blocks": "#minecraft:mineable/pickaxe",
+                "speed": 20.0,
+                "correct_for_drops": true
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_pickaxe",
+        "bedrock_identifier": "aaai:netherite_emerald_pickaxe",
+        "display_name": "Netherite Emerald Pickaxe",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_emerald_pickaxe"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_emerald_pickaxe",
+          "creative_category": "equipment",
+          "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 2651,
+          "minecraft:tool": {
+            "default_mining_speed": 1.0,
+            "damage_per_block": 1,
+            "rules": [
+              {
+                "blocks": "#minecraft:mineable/pickaxe",
+                "speed": 29.0,
+                "correct_for_drops": true
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_pickaxe",
+        "bedrock_identifier": "aaai:netherite_diamond_pickaxe",
+        "display_name": "Netherite Diamond Pickaxe",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_diamond_pickaxe"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_diamond_pickaxe",
+          "creative_category": "equipment",
+          "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 3092,
+          "minecraft:tool": {
+            "default_mining_speed": 1.0,
+            "damage_per_block": 1,
+            "rules": [
+              {
+                "blocks": "#minecraft:mineable/pickaxe",
+                "speed": 39.0,
+                "correct_for_drops": true
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "minecraft:netherite_axe": [
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_axe",
+        "bedrock_identifier": "aaai:netherite_iron_axe",
+        "display_name": "Netherite Iron Axe",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_iron_axe"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_iron_axe",
+          "creative_category": "equipment",
+          "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 2281,
+          "minecraft:tool": {
+            "default_mining_speed": 1.0,
+            "damage_per_block": 1,
+            "rules": [
+              {
+                "blocks": "#minecraft:mineable/axe",
+                "speed": 12.0,
+                "correct_for_drops": true
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_axe",
+        "bedrock_identifier": "aaai:netherite_gold_axe",
+        "display_name": "Netherite Gold Axe",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_gold_axe"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_gold_axe",
+          "creative_category": "equipment",
+          "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 2313,
+          "minecraft:tool": {
+            "default_mining_speed": 1.0,
+            "damage_per_block": 1,
+            "rules": [
+              {
+                "blocks": "#minecraft:mineable/axe",
+                "speed": 20.0,
+                "correct_for_drops": true
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_axe",
+        "bedrock_identifier": "aaai:netherite_emerald_axe",
+        "display_name": "Netherite Emerald Axe",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_emerald_axe"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_emerald_axe",
+          "creative_category": "equipment",
+          "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 2651,
+          "minecraft:tool": {
+            "default_mining_speed": 1.0,
+            "damage_per_block": 1,
+            "rules": [
+              {
+                "blocks": "#minecraft:mineable/axe",
+                "speed": 29.0,
+                "correct_for_drops": true
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_axe",
+        "bedrock_identifier": "aaai:netherite_diamond_axe",
+        "display_name": "Netherite Diamond Axe",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_diamond_axe"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_diamond_axe",
+          "creative_category": "equipment",
+          "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 3092,
+          "minecraft:tool": {
+            "default_mining_speed": 1.0,
+            "damage_per_block": 1,
+            "rules": [
+              {
+                "blocks": "#minecraft:mineable/axe",
+                "speed": 39.0,
+                "correct_for_drops": true
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "minecraft:netherite_shovel": [
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_shovel",
+        "bedrock_identifier": "aaai:netherite_iron_shovel",
+        "display_name": "Netherite Iron Shovel",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_iron_shovel"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_iron_shovel",
+          "creative_category": "equipment",
+          "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 2281,
+          "minecraft:tool": {
+            "default_mining_speed": 1.0,
+            "damage_per_block": 1,
+            "rules": [
+              {
+                "blocks": "#minecraft:mineable/shovel",
+                "speed": 12.0,
+                "correct_for_drops": true
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_shovel",
+        "bedrock_identifier": "aaai:netherite_gold_shovel",
+        "display_name": "Netherite Gold Shovel",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_gold_shovel"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_gold_shovel",
+          "creative_category": "equipment",
+          "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 2313,
+          "minecraft:tool": {
+            "default_mining_speed": 1.0,
+            "damage_per_block": 1,
+            "rules": [
+              {
+                "blocks": "#minecraft:mineable/shovel",
+                "speed": 20.0,
+                "correct_for_drops": true
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_shovel",
+        "bedrock_identifier": "aaai:netherite_emerald_shovel",
+        "display_name": "Netherite Emerald Shovel",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_emerald_shovel"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_emerald_shovel",
+          "creative_category": "equipment",
+          "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 2651,
+          "minecraft:tool": {
+            "default_mining_speed": 1.0,
+            "damage_per_block": 1,
+            "rules": [
+              {
+                "blocks": "#minecraft:mineable/shovel",
+                "speed": 29.0,
+                "correct_for_drops": true
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_shovel",
+        "bedrock_identifier": "aaai:netherite_diamond_shovel",
+        "display_name": "Netherite Diamond Shovel",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_diamond_shovel"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_diamond_shovel",
+          "creative_category": "equipment",
+          "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 3092,
+          "minecraft:tool": {
+            "default_mining_speed": 1.0,
+            "damage_per_block": 1,
+            "rules": [
+              {
+                "blocks": "#minecraft:mineable/shovel",
+                "speed": 39.0,
+                "correct_for_drops": true
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "minecraft:netherite_hoe": [
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_hoe",
+        "bedrock_identifier": "aaai:netherite_iron_hoe",
+        "display_name": "Netherite Iron Hoe",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_iron_hoe"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_iron_hoe",
+          "creative_category": "equipment",
+          "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 2281,
+          "minecraft:tool": {
+            "default_mining_speed": 1.0,
+            "damage_per_block": 1,
+            "rules": [
+              {
+                "blocks": "#minecraft:mineable/hoe",
+                "speed": 12.0,
+                "correct_for_drops": true
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_hoe",
+        "bedrock_identifier": "aaai:netherite_gold_hoe",
+        "display_name": "Netherite Gold Hoe",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_gold_hoe"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_gold_hoe",
+          "creative_category": "equipment",
+          "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 2313,
+          "minecraft:tool": {
+            "default_mining_speed": 1.0,
+            "damage_per_block": 1,
+            "rules": [
+              {
+                "blocks": "#minecraft:mineable/hoe",
+                "speed": 20.0,
+                "correct_for_drops": true
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_hoe",
+        "bedrock_identifier": "aaai:netherite_emerald_hoe",
+        "display_name": "Netherite Emerald Hoe",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_emerald_hoe"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_emerald_hoe",
+          "creative_category": "equipment",
+          "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 2651,
+          "minecraft:tool": {
+            "default_mining_speed": 1.0,
+            "damage_per_block": 1,
+            "rules": [
+              {
+                "blocks": "#minecraft:mineable/hoe",
+                "speed": 29.0,
+                "correct_for_drops": true
+              }
+            ]
+          }
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_hoe",
+        "bedrock_identifier": "aaai:netherite_diamond_hoe",
+        "display_name": "Netherite Diamond Hoe",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_diamond_hoe"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_diamond_hoe",
+          "creative_category": "equipment",
+          "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 3092,
+          "minecraft:tool": {
+            "default_mining_speed": 1.0,
+            "damage_per_block": 1,
+            "rules": [
+              {
+                "blocks": "#minecraft:mineable/hoe",
+                "speed": 39.0,
+                "correct_for_drops": true
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "minecraft:netherite_helmet": [
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_helmet",
+        "bedrock_identifier": "aaai:netherite_iron_helmet",
+        "display_name": "Netherite Iron Helmet",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_iron_helmet"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_iron_helmet",
+          "protection_value": 4,
+          "creative_category": "equipment"
+        },
+        "components": {
+          "minecraft:equippable": {
+            "slot": "head"
+          },
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 429
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_helmet",
+        "bedrock_identifier": "aaai:netherite_gold_helmet",
+        "display_name": "Netherite Gold Helmet",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_gold_helmet"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_gold_helmet",
+          "protection_value": 4,
+          "creative_category": "equipment"
+        },
+        "components": {
+          "minecraft:equippable": {
+            "slot": "head"
+          },
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 451
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_helmet",
+        "bedrock_identifier": "aaai:netherite_emerald_helmet",
+        "display_name": "Netherite Emerald Helmet",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_emerald_helmet"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_emerald_helmet",
+          "protection_value": 4,
+          "creative_category": "equipment"
+        },
+        "components": {
+          "minecraft:equippable": {
+            "slot": "head"
+          },
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 473
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_helmet",
+        "bedrock_identifier": "aaai:netherite_diamond_helmet",
+        "display_name": "Netherite Diamond Helmet",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_diamond_helmet"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_diamond_helmet",
+          "protection_value": 5,
+          "creative_category": "equipment"
+        },
+        "components": {
+          "minecraft:equippable": {
+            "slot": "head"
+          },
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 517
+        }
+      }
+    ],
+    "minecraft:netherite_chestplate": [
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_chestplate",
+        "bedrock_identifier": "aaai:netherite_iron_chestplate",
+        "display_name": "Netherite Iron Chestplate",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_iron_chestplate"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_iron_chestplate",
+          "protection_value": 8,
+          "creative_category": "equipment"
+        },
+        "components": {
+          "minecraft:equippable": {
+            "slot": "chest"
+          },
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 624
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_chestplate",
+        "bedrock_identifier": "aaai:netherite_gold_chestplate",
+        "display_name": "Netherite Gold Chestplate",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_gold_chestplate"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_gold_chestplate",
+          "protection_value": 9,
+          "creative_category": "equipment"
+        },
+        "components": {
+          "minecraft:equippable": {
+            "slot": "chest"
+          },
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 656
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_chestplate",
+        "bedrock_identifier": "aaai:netherite_emerald_chestplate",
+        "display_name": "Netherite Emerald Chestplate",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_emerald_chestplate"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_emerald_chestplate",
+          "protection_value": 9,
+          "creative_category": "equipment"
+        },
+        "components": {
+          "minecraft:equippable": {
+            "slot": "chest"
+          },
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 688
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_chestplate",
+        "bedrock_identifier": "aaai:netherite_diamond_chestplate",
+        "display_name": "Netherite Diamond Chestplate",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_diamond_chestplate"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_diamond_chestplate",
+          "protection_value": 9,
+          "creative_category": "equipment"
+        },
+        "components": {
+          "minecraft:equippable": {
+            "slot": "chest"
+          },
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 752
+        }
+      }
+    ],
+    "minecraft:netherite_leggings": [
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_leggings",
+        "bedrock_identifier": "aaai:netherite_iron_leggings",
+        "display_name": "Netherite Iron Leggings",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_iron_leggings"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_iron_leggings",
+          "protection_value": 6,
+          "creative_category": "equipment"
+        },
+        "components": {
+          "minecraft:equippable": {
+            "slot": "legs"
+          },
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 585
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_leggings",
+        "bedrock_identifier": "aaai:netherite_gold_leggings",
+        "display_name": "Netherite Gold Leggings",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_gold_leggings"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_gold_leggings",
+          "protection_value": 7,
+          "creative_category": "equipment"
+        },
+        "components": {
+          "minecraft:equippable": {
+            "slot": "legs"
+          },
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 615
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_leggings",
+        "bedrock_identifier": "aaai:netherite_emerald_leggings",
+        "display_name": "Netherite Emerald Leggings",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_emerald_leggings"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_emerald_leggings",
+          "protection_value": 7,
+          "creative_category": "equipment"
+        },
+        "components": {
+          "minecraft:equippable": {
+            "slot": "legs"
+          },
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 645
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_leggings",
+        "bedrock_identifier": "aaai:netherite_diamond_leggings",
+        "display_name": "Netherite Diamond Leggings",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_diamond_leggings"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_diamond_leggings",
+          "protection_value": 7,
+          "creative_category": "equipment"
+        },
+        "components": {
+          "minecraft:equippable": {
+            "slot": "legs"
+          },
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 705
+        }
+      }
+    ],
+    "minecraft:netherite_boots": [
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_boots",
+        "bedrock_identifier": "aaai:netherite_iron_boots",
+        "display_name": "Netherite Iron Boots",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_iron_boots"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_iron_boots",
+          "protection_value": 4,
+          "creative_category": "equipment"
+        },
+        "components": {
+          "minecraft:equippable": {
+            "slot": "feet"
+          },
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 507
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_boots",
+        "bedrock_identifier": "aaai:netherite_gold_boots",
+        "display_name": "Netherite Gold Boots",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_gold_boots"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_gold_boots",
+          "protection_value": 4,
+          "creative_category": "equipment"
+        },
+        "components": {
+          "minecraft:equippable": {
+            "slot": "feet"
+          },
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 533
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_boots",
+        "bedrock_identifier": "aaai:netherite_emerald_boots",
+        "display_name": "Netherite Emerald Boots",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_emerald_boots"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_emerald_boots",
+          "protection_value": 4,
+          "creative_category": "equipment"
+        },
+        "components": {
+          "minecraft:equippable": {
+            "slot": "feet"
+          },
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 559
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:netherite_boots",
+        "bedrock_identifier": "aaai:netherite_diamond_boots",
+        "display_name": "Netherite Diamond Boots",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_diamond_boots"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_diamond_boots",
+          "protection_value": 5,
+          "creative_category": "equipment"
+        },
+        "components": {
+          "minecraft:equippable": {
+            "slot": "feet"
+          },
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 611
+        }
+      }
+    ]
+  }
+}

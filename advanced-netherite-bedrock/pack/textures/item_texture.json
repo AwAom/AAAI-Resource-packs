@@ -1,0 +1,138 @@
+{
+  "resource_pack_name": "aaai",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "aaai.netherite_iron_ingot": {
+      "textures": "textures/items/netherite_iron_ingot"
+    },
+    "aaai.netherite_iron_block": {
+      "textures": "textures/items/netherite_iron_block"
+    },
+    "aaai.netherite_iron_sword": {
+      "textures": "textures/items/netherite_iron_sword"
+    },
+    "aaai.netherite_iron_pickaxe": {
+      "textures": "textures/items/netherite_iron_pickaxe"
+    },
+    "aaai.netherite_iron_axe": {
+      "textures": "textures/items/netherite_iron_axe"
+    },
+    "aaai.netherite_iron_shovel": {
+      "textures": "textures/items/netherite_iron_shovel"
+    },
+    "aaai.netherite_iron_hoe": {
+      "textures": "textures/items/netherite_iron_hoe"
+    },
+    "aaai.netherite_gold_ingot": {
+      "textures": "textures/items/netherite_gold_ingot"
+    },
+    "aaai.netherite_gold_block": {
+      "textures": "textures/items/netherite_gold_block"
+    },
+    "aaai.netherite_gold_sword": {
+      "textures": "textures/items/netherite_gold_sword"
+    },
+    "aaai.netherite_gold_pickaxe": {
+      "textures": "textures/items/netherite_gold_pickaxe"
+    },
+    "aaai.netherite_gold_axe": {
+      "textures": "textures/items/netherite_gold_axe"
+    },
+    "aaai.netherite_gold_shovel": {
+      "textures": "textures/items/netherite_gold_shovel"
+    },
+    "aaai.netherite_gold_hoe": {
+      "textures": "textures/items/netherite_gold_hoe"
+    },
+    "aaai.netherite_emerald_ingot": {
+      "textures": "textures/items/netherite_emerald_ingot"
+    },
+    "aaai.netherite_emerald_block": {
+      "textures": "textures/items/netherite_emerald_block"
+    },
+    "aaai.netherite_emerald_sword": {
+      "textures": "textures/items/netherite_emerald_sword"
+    },
+    "aaai.netherite_emerald_pickaxe": {
+      "textures": "textures/items/netherite_emerald_pickaxe"
+    },
+    "aaai.netherite_emerald_axe": {
+      "textures": "textures/items/netherite_emerald_axe"
+    },
+    "aaai.netherite_emerald_shovel": {
+      "textures": "textures/items/netherite_emerald_shovel"
+    },
+    "aaai.netherite_emerald_hoe": {
+      "textures": "textures/items/netherite_emerald_hoe"
+    },
+    "aaai.netherite_diamond_ingot": {
+      "textures": "textures/items/netherite_diamond_ingot"
+    },
+    "aaai.netherite_diamond_block": {
+      "textures": "textures/items/netherite_diamond_block"
+    },
+    "aaai.netherite_diamond_sword": {
+      "textures": "textures/items/netherite_diamond_sword"
+    },
+    "aaai.netherite_diamond_pickaxe": {
+      "textures": "textures/items/netherite_diamond_pickaxe"
+    },
+    "aaai.netherite_diamond_axe": {
+      "textures": "textures/items/netherite_diamond_axe"
+    },
+    "aaai.netherite_diamond_shovel": {
+      "textures": "textures/items/netherite_diamond_shovel"
+    },
+    "aaai.netherite_diamond_hoe": {
+      "textures": "textures/items/netherite_diamond_hoe"
+    },
+    "aaai.netherite_iron_helmet": {
+      "textures": "textures/items/netherite_iron_helmet"
+    },
+    "aaai.netherite_iron_chestplate": {
+      "textures": "textures/items/netherite_iron_chestplate"
+    },
+    "aaai.netherite_iron_leggings": {
+      "textures": "textures/items/netherite_iron_leggings"
+    },
+    "aaai.netherite_iron_boots": {
+      "textures": "textures/items/netherite_iron_boots"
+    },
+    "aaai.netherite_gold_helmet": {
+      "textures": "textures/items/netherite_gold_helmet"
+    },
+    "aaai.netherite_gold_chestplate": {
+      "textures": "textures/items/netherite_gold_chestplate"
+    },
+    "aaai.netherite_gold_leggings": {
+      "textures": "textures/items/netherite_gold_leggings"
+    },
+    "aaai.netherite_gold_boots": {
+      "textures": "textures/items/netherite_gold_boots"
+    },
+    "aaai.netherite_emerald_helmet": {
+      "textures": "textures/items/netherite_emerald_helmet"
+    },
+    "aaai.netherite_emerald_chestplate": {
+      "textures": "textures/items/netherite_emerald_chestplate"
+    },
+    "aaai.netherite_emerald_leggings": {
+      "textures": "textures/items/netherite_emerald_leggings"
+    },
+    "aaai.netherite_emerald_boots": {
+      "textures": "textures/items/netherite_emerald_boots"
+    },
+    "aaai.netherite_diamond_helmet": {
+      "textures": "textures/items/netherite_diamond_helmet"
+    },
+    "aaai.netherite_diamond_chestplate": {
+      "textures": "textures/items/netherite_diamond_chestplate"
+    },
+    "aaai.netherite_diamond_leggings": {
+      "textures": "textures/items/netherite_diamond_leggings"
+    },
+    "aaai.netherite_diamond_boots": {
+      "textures": "textures/items/netherite_diamond_boots"
+    }
+  }
+}

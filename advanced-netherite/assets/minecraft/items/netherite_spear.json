@@ -1,0 +1,132 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "cases": [
+      {
+        "when": "netherite_iron_spear",
+        "model": {
+          "type": "minecraft:select",
+          "cases": [
+            {
+              "model": {
+                "type": "minecraft:model",
+                "model": "advancednetherite:item/netherite_iron_spear"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "advancednetherite:item/netherite_iron_spear_in_hand"
+          },
+          "property": "minecraft:display_context"
+        }
+      },
+      {
+        "when": "netherite_gold_spear",
+        "model": {
+          "type": "minecraft:select",
+          "cases": [
+            {
+              "model": {
+                "type": "minecraft:model",
+                "model": "advancednetherite:item/netherite_gold_spear"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "advancednetherite:item/netherite_gold_spear_in_hand"
+          },
+          "property": "minecraft:display_context"
+        }
+      },
+      {
+        "when": "netherite_emerald_spear",
+        "model": {
+          "type": "minecraft:select",
+          "cases": [
+            {
+              "model": {
+                "type": "minecraft:model",
+                "model": "advancednetherite:item/netherite_emerald_spear"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "advancednetherite:item/netherite_emerald_spear_in_hand"
+          },
+          "property": "minecraft:display_context"
+        }
+      },
+      {
+        "when": "netherite_diamond_spear",
+        "model": {
+          "type": "minecraft:select",
+          "cases": [
+            {
+              "model": {
+                "type": "minecraft:model",
+                "model": "advancednetherite:item/netherite_diamond_spear"
+              },
+              "when": [
+                "gui",
+                "ground",
+                "fixed",
+                "on_shelf"
+              ]
+            }
+          ],
+          "fallback": {
+            "type": "minecraft:model",
+            "model": "advancednetherite:item/netherite_diamond_spear_in_hand"
+          },
+          "property": "minecraft:display_context"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:select",
+      "cases": [
+        {
+          "model": {
+            "type": "minecraft:model",
+            "model": "minecraft:item/netherite_spear"
+          },
+          "when": [
+            "gui",
+            "ground",
+            "fixed",
+            "on_shelf"
+          ]
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/netherite_spear_in_hand"
+      },
+      "property": "minecraft:display_context"
+    }
+  },
+  "swap_animation_scale": 1.95
+}

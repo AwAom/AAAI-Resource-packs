@@ -1,0 +1,82 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "cases": [
+      {
+        "when": "netherite_iron_sword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "advancednetherite:item/netherite_iron_sword"
+        }
+      },
+      {
+        "when": "netherite_gold_sword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "advancednetherite:item/netherite_gold_sword"
+        }
+      },
+      {
+        "when": "netherite_emerald_sword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "advancednetherite:item/netherite_emerald_sword"
+        }
+      },
+      {
+        "when": "netherite_diamond_sword",
+        "model": {
+          "type": "minecraft:model",
+          "model": "advancednetherite:item/netherite_diamond_sword"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:range_dispatch",
+      "property": "minecraft:custom_model_data",
+      "entries": [
+        {
+          "threshold": 1450000,
+          "model": {
+            "type": "minecraft:model",
+            "model": "incendium:item/daybreaker"
+          }
+        },
+        {
+          "threshold": 1450001,
+          "model": {
+            "type": "minecraft:model",
+            "model": "incendium:item/witherblade"
+          }
+        },
+        {
+          "threshold": 1450003,
+          "model": {
+            "type": "minecraft:model",
+            "model": "incendium:item/chilling"
+          }
+        },
+        {
+          "threshold": 1450004,
+          "model": {
+            "type": "minecraft:model",
+            "model": "incendium:item/greatsword"
+          }
+        },
+        {
+          "threshold": 1450005,
+          "model": {
+            "type": "minecraft:model",
+            "model": "incendium:item/scarlet"
+          }
+        }
+      ],
+      "fallback": {
+        "type": "minecraft:model",
+        "model": "minecraft:item/netherite_sword"
+      }
+    }
+  }
+}
