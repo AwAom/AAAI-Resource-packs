@@ -1,0 +1,57 @@
+{
+  "resource_pack_name": "aaai-glass-pane-fix",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "aaai_glass_pane": {
+      "textures": "textures/blocks/glass"
+    },
+    "aaai_white_stained_glass_pane": {
+      "textures": "textures/blocks/glass_white"
+    },
+    "aaai_orange_stained_glass_pane": {
+      "textures": "textures/blocks/glass_orange"
+    },
+    "aaai_magenta_stained_glass_pane": {
+      "textures": "textures/blocks/glass_magenta"
+    },
+    "aaai_light_blue_stained_glass_pane": {
+      "textures": "textures/blocks/glass_light_blue"
+    },
+    "aaai_yellow_stained_glass_pane": {
+      "textures": "textures/blocks/glass_yellow"
+    },
+    "aaai_lime_stained_glass_pane": {
+      "textures": "textures/blocks/glass_lime"
+    },
+    "aaai_pink_stained_glass_pane": {
+      "textures": "textures/blocks/glass_pink"
+    },
+    "aaai_gray_stained_glass_pane": {
+      "textures": "textures/blocks/glass_gray"
+    },
+    "aaai_light_gray_stained_glass_pane": {
+      "textures": "textures/blocks/glass_silver"
+    },
+    "aaai_cyan_stained_glass_pane": {
+      "textures": "textures/blocks/glass_cyan"
+    },
+    "aaai_purple_stained_glass_pane": {
+      "textures": "textures/blocks/glass_purple"
+    },
+    "aaai_blue_stained_glass_pane": {
+      "textures": "textures/blocks/glass_blue"
+    },
+    "aaai_brown_stained_glass_pane": {
+      "textures": "textures/blocks/glass_brown"
+    },
+    "aaai_green_stained_glass_pane": {
+      "textures": "textures/blocks/glass_green"
+    },
+    "aaai_red_stained_glass_pane": {
+      "textures": "textures/blocks/glass_red"
+    },
+    "aaai_black_stained_glass_pane": {
+      "textures": "textures/blocks/glass_black"
+    }
+  }
+}

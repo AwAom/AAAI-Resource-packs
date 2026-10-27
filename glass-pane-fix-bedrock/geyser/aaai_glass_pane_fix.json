@@ -1,0 +1,294 @@
+{
+  "format_version": 2,
+  "items": {
+    "minecraft:glass_pane": [
+      {
+        "type": "definition",
+        "model": "minecraft:glass_pane",
+        "bedrock_identifier": "aaai:glass_pane",
+        "display_name": "Glass Pane",
+        "predicate": {
+          "type": "condition",
+          "property": "has_component",
+          "component": "minecraft:custom_name"
+        },
+        "bedrock_options": {
+          "icon": "aaai_glass_pane",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:white_stained_glass_pane": [
+      {
+        "type": "definition",
+        "model": "minecraft:white_stained_glass_pane",
+        "bedrock_identifier": "aaai:white_stained_glass_pane",
+        "display_name": "White Stained Glass Pane",
+        "predicate": {
+          "type": "condition",
+          "property": "has_component",
+          "component": "minecraft:custom_name"
+        },
+        "bedrock_options": {
+          "icon": "aaai_white_stained_glass_pane",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:orange_stained_glass_pane": [
+      {
+        "type": "definition",
+        "model": "minecraft:orange_stained_glass_pane",
+        "bedrock_identifier": "aaai:orange_stained_glass_pane",
+        "display_name": "Orange Stained Glass Pane",
+        "predicate": {
+          "type": "condition",
+          "property": "has_component",
+          "component": "minecraft:custom_name"
+        },
+        "bedrock_options": {
+          "icon": "aaai_orange_stained_glass_pane",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:magenta_stained_glass_pane": [
+      {
+        "type": "definition",
+        "model": "minecraft:magenta_stained_glass_pane",
+        "bedrock_identifier": "aaai:magenta_stained_glass_pane",
+        "display_name": "Magenta Stained Glass Pane",
+        "predicate": {
+          "type": "condition",
+          "property": "has_component",
+          "component": "minecraft:custom_name"
+        },
+        "bedrock_options": {
+          "icon": "aaai_magenta_stained_glass_pane",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:light_blue_stained_glass_pane": [
+      {
+        "type": "definition",
+        "model": "minecraft:light_blue_stained_glass_pane",
+        "bedrock_identifier": "aaai:light_blue_stained_glass_pane",
+        "display_name": "Light Blue Stained Glass Pane",
+        "predicate": {
+          "type": "condition",
+          "property": "has_component",
+          "component": "minecraft:custom_name"
+        },
+        "bedrock_options": {
+          "icon": "aaai_light_blue_stained_glass_pane",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:yellow_stained_glass_pane": [
+      {
+        "type": "definition",
+        "model": "minecraft:yellow_stained_glass_pane",
+        "bedrock_identifier": "aaai:yellow_stained_glass_pane",
+        "display_name": "Yellow Stained Glass Pane",
+        "predicate": {
+          "type": "condition",
+          "property": "has_component",
+          "component": "minecraft:custom_name"
+        },
+        "bedrock_options": {
+          "icon": "aaai_yellow_stained_glass_pane",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:lime_stained_glass_pane": [
+      {
+        "type": "definition",
+        "model": "minecraft:lime_stained_glass_pane",
+        "bedrock_identifier": "aaai:lime_stained_glass_pane",
+        "display_name": "Lime Stained Glass Pane",
+        "predicate": {
+          "type": "condition",
+          "property": "has_component",
+          "component": "minecraft:custom_name"
+        },
+        "bedrock_options": {
+          "icon": "aaai_lime_stained_glass_pane",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:pink_stained_glass_pane": [
+      {
+        "type": "definition",
+        "model": "minecraft:pink_stained_glass_pane",
+        "bedrock_identifier": "aaai:pink_stained_glass_pane",
+        "display_name": "Pink Stained Glass Pane",
+        "predicate": {
+          "type": "condition",
+          "property": "has_component",
+          "component": "minecraft:custom_name"
+        },
+        "bedrock_options": {
+          "icon": "aaai_pink_stained_glass_pane",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:gray_stained_glass_pane": [
+      {
+        "type": "definition",
+        "model": "minecraft:gray_stained_glass_pane",
+        "bedrock_identifier": "aaai:gray_stained_glass_pane",
+        "display_name": "Gray Stained Glass Pane",
+        "predicate": {
+          "type": "condition",
+          "property": "has_component",
+          "component": "minecraft:custom_name"
+        },
+        "bedrock_options": {
+          "icon": "aaai_gray_stained_glass_pane",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:light_gray_stained_glass_pane": [
+      {
+        "type": "definition",
+        "model": "minecraft:light_gray_stained_glass_pane",
+        "bedrock_identifier": "aaai:light_gray_stained_glass_pane",
+        "display_name": "Light Gray Stained Glass Pane",
+        "predicate": {
+          "type": "condition",
+          "property": "has_component",
+          "component": "minecraft:custom_name"
+        },
+        "bedrock_options": {
+          "icon": "aaai_light_gray_stained_glass_pane",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:cyan_stained_glass_pane": [
+      {
+        "type": "definition",
+        "model": "minecraft:cyan_stained_glass_pane",
+        "bedrock_identifier": "aaai:cyan_stained_glass_pane",
+        "display_name": "Cyan Stained Glass Pane",
+        "predicate": {
+          "type": "condition",
+          "property": "has_component",
+          "component": "minecraft:custom_name"
+        },
+        "bedrock_options": {
+          "icon": "aaai_cyan_stained_glass_pane",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:purple_stained_glass_pane": [
+      {
+        "type": "definition",
+        "model": "minecraft:purple_stained_glass_pane",
+        "bedrock_identifier": "aaai:purple_stained_glass_pane",
+        "display_name": "Purple Stained Glass Pane",
+        "predicate": {
+          "type": "condition",
+          "property": "has_component",
+          "component": "minecraft:custom_name"
+        },
+        "bedrock_options": {
+          "icon": "aaai_purple_stained_glass_pane",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:blue_stained_glass_pane": [
+      {
+        "type": "definition",
+        "model": "minecraft:blue_stained_glass_pane",
+        "bedrock_identifier": "aaai:blue_stained_glass_pane",
+        "display_name": "Blue Stained Glass Pane",
+        "predicate": {
+          "type": "condition",
+          "property": "has_component",
+          "component": "minecraft:custom_name"
+        },
+        "bedrock_options": {
+          "icon": "aaai_blue_stained_glass_pane",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:brown_stained_glass_pane": [
+      {
+        "type": "definition",
+        "model": "minecraft:brown_stained_glass_pane",
+        "bedrock_identifier": "aaai:brown_stained_glass_pane",
+        "display_name": "Brown Stained Glass Pane",
+        "predicate": {
+          "type": "condition",
+          "property": "has_component",
+          "component": "minecraft:custom_name"
+        },
+        "bedrock_options": {
+          "icon": "aaai_brown_stained_glass_pane",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:green_stained_glass_pane": [
+      {
+        "type": "definition",
+        "model": "minecraft:green_stained_glass_pane",
+        "bedrock_identifier": "aaai:green_stained_glass_pane",
+        "display_name": "Green Stained Glass Pane",
+        "predicate": {
+          "type": "condition",
+          "property": "has_component",
+          "component": "minecraft:custom_name"
+        },
+        "bedrock_options": {
+          "icon": "aaai_green_stained_glass_pane",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:red_stained_glass_pane": [
+      {
+        "type": "definition",
+        "model": "minecraft:red_stained_glass_pane",
+        "bedrock_identifier": "aaai:red_stained_glass_pane",
+        "display_name": "Red Stained Glass Pane",
+        "predicate": {
+          "type": "condition",
+          "property": "has_component",
+          "component": "minecraft:custom_name"
+        },
+        "bedrock_options": {
+          "icon": "aaai_red_stained_glass_pane",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:black_stained_glass_pane": [
+      {
+        "type": "definition",
+        "model": "minecraft:black_stained_glass_pane",
+        "bedrock_identifier": "aaai:black_stained_glass_pane",
+        "display_name": "Black Stained Glass Pane",
+        "predicate": {
+          "type": "condition",
+          "property": "has_component",
+          "component": "minecraft:custom_name"
+        },
+        "bedrock_options": {
+          "icon": "aaai_black_stained_glass_pane",
+          "creative_category": "none"
+        }
+      }
+    ]
+  }
+}

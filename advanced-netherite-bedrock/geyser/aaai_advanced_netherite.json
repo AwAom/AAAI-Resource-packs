@@ -1645,6 +1645,29 @@
         }
       }
     ],
+    "minecraft:trident": [
+      {
+        "type": "definition",
+        "model": "minecraft:trident",
+        "bedrock_identifier": "aaai:netherite_blackdragon_trident",
+        "display_name": "Netherite Black Dragon Trident",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "netherite_blackdragon_trident"
+        },
+        "bedrock_options": {
+          "icon": "aaai.netherite_blackdragon_trident",
+          "creative_category": "equipment",
+          "display_handheld": true
+        },
+        "components": {
+          "minecraft:max_stack_size": 1,
+          "minecraft:max_damage": 3149
+        }
+      }
+    ],
     "minecraft:nautilus_shell": [
       {
         "type": "definition",

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "AAAI-BR-GLASS-PANE-FIX",
+    "description": "Flat glass pane icons in Bedrock inventories/GUIs (like Java)",
+    "uuid": "6ef25cad-fa50-4c69-864c-a03c1d610af2",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "3f71a605-e0f0-4cc1-bab5-9b7d4ecf9b61",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

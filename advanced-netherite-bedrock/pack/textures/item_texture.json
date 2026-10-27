@@ -188,6 +188,9 @@
     "aaai.netherite_blackdragon_boots": {
       "textures": "textures/items/netherite_blackdragon_boots"
     },
+    "aaai.netherite_blackdragon_trident": {
+      "textures": "textures/items/netherite_blackdragon_trident"
+    },
     "aaai.warden_carapace": {
       "textures": "textures/items/warden_carapace"
     },

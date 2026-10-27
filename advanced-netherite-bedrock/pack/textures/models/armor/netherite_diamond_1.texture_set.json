@@ -1,0 +1,7 @@
+{
+  "format_version": "1.16.100",
+  "minecraft:texture_set": {
+    "color": "netherite_diamond_1",
+    "metalness_emissive_roughness": "netherite_diamond_1_mer"
+  }
+}

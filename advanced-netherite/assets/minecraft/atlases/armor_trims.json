@@ -1,0 +1,29 @@
+{
+  "sources": [
+    {
+      "type": "minecraft:paletted_permutations",
+      "palette_key": "minecraft:trims/color_palettes/trim_palette",
+      "permutations": {
+        "amethyst": "minecraft:trims/color_palettes/amethyst",
+        "iron": "minecraft:trims/color_palettes/iron",
+        "gold": "minecraft:trims/color_palettes/gold",
+        "emerald": "minecraft:trims/color_palettes/emerald",
+        "diamond": "minecraft:trims/color_palettes/diamond"
+      },
+      "textures": [
+        "aaai:trims/entity/humanoid/rm_advance_netherite_blackdragon",
+        "aaai:trims/entity/humanoid_leggings/rm_advance_netherite_blackdragon",
+        "aaai:trims/entity/humanoid/rm_advance_netherite_iron",
+        "aaai:trims/entity/humanoid_leggings/rm_advance_netherite_iron",
+        "aaai:trims/entity/humanoid/rm_advance_netherite_gold",
+        "aaai:trims/entity/humanoid_leggings/rm_advance_netherite_gold",
+        "aaai:trims/entity/humanoid/rm_advance_netherite_emerald",
+        "aaai:trims/entity/humanoid_leggings/rm_advance_netherite_emerald",
+        "aaai:trims/entity/humanoid/rm_advance_netherite_diamond",
+        "aaai:trims/entity/humanoid_leggings/rm_advance_netherite_diamond",
+        "aaai:trims/entity/humanoid/rm_advance_netherite_blackdragon_eye",
+        "aaai:trims/entity/humanoid_leggings/rm_advance_netherite_blackdragon_eye"
+      ]
+    }
+  ]
+}
