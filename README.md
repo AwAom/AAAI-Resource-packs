@@ -7,6 +7,7 @@ Optional resource packs for the **Island SMP** Minecraft server (Java Edition). 
 | XP Tome | `xp-tome/` | Purple book texture for the XP Tome item |
 | XP Tome (Bedrock) | `xp-tome-bedrock/` | Native Bedrock `.mcpack` (`pack/`) + Geyser custom item mapping (`geyser/`); the server sends it to Bedrock players through Geyser, not through `/rp` |
 
+| Glass Pane Fix (Bedrock) | `glass-pane-fix-bedrock/` | Bedrock-only `.mcpack` + Geyser mapping: renamed glass panes (chest-GUI fillers) show as flat icons like Java instead of isometric blocks; points at Bedrock's own glass textures, no Mojang files bundled |
 | Advanced Netherite | `advanced-netherite/` | Textures/models for the AAAI-RM-AdvanceNetherite tiers (**GPL-3.0**, own licence file in the folder) |
 | Advanced Netherite (Bedrock) | `advanced-netherite-bedrock/` | Native Bedrock pack + Geyser mapping for those items (**GPL-3.0**) |
 
