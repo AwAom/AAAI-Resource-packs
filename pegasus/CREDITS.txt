@@ -1,0 +1,11 @@
+AAAI Pegasus pack credits
+
+The horse coat texture (assets/aaaimob/textures/entity/equipment/horse_body/pegasus_coat.png) is based on "Pegasus"
+(https://sketchfab.com/3d-models/pegasus-5b1018a2e0844747bae1ca8933820619) by DibArts (https://sketchfab.com/youssefe22)
+licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+Changes made: the model textures were recoloured (pearl coat, aurora mane and tail, gold hooves) and mapped onto the
+vanilla horse texture layout. Only the layout (alpha mask) of the vanilla horse texture was used, no Mojang pixels.
+
+The Pegasus saddle texture (assets/aaaimob/textures/entity/equipment/horse_saddle/pegasus_saddle.png) is original AAAI art
+(MIT, see the repository LICENSE); only the layout of the vanilla saddle texture was used, no Mojang pixels.

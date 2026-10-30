@@ -1,0 +1,13 @@
+Model Information:
+* title:	Pegasus
+* source:	https://sketchfab.com/3d-models/pegasus-5b1018a2e0844747bae1ca8933820619
+* author:	DibArts (https://sketchfab.com/youssefe22)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+This work is based on "Pegasus" (https://sketchfab.com/3d-models/pegasus-5b1018a2e0844747bae1ca8933820619) by DibArts (https://sketchfab.com/youssefe22) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+
+Changes: textures recoloured and mapped onto the vanilla horse texture layout (see CREDITS.txt). The recoloured coat texture
+in this pack is an adaptation of the original and is shared under the same CC BY 4.0 licence.
