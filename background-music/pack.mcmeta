@@ -1,0 +1,13 @@
+{
+ "pack": {
+  "description": "AAAI Background Music - music for server events (throne boss fight)",
+  "min_format": [
+   88,
+   0
+  ],
+  "max_format": [
+   88,
+   0
+  ]
+ }
+}

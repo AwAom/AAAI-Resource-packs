@@ -1,0 +1,8 @@
+{
+  "music.throne_boss": {
+    "category": "music",
+    "sounds": [
+      { "name": "aaai:throne_boss", "stream": true }
+    ]
+  }
+}

@@ -10,6 +10,7 @@ Optional resource packs for the **Island SMP** Minecraft server (Java Edition). 
 | Glass Pane Fix (Bedrock) | `glass-pane-fix-bedrock/` | Bedrock-only `.mcpack` + Geyser mapping: renamed glass panes (chest-GUI fillers) show as flat icons like Java instead of isometric blocks; points at Bedrock's own glass textures, no Mojang files bundled |
 | Pegasus | `pegasus/` | Coat + premium saddle for the Pegasus mount (equipment assets `aaaimob:pegasus_coat`, `aaaimob:pegasus_saddle`); the coat is based on "Pegasus" by DibArts (**CC BY 4.0**, own licence file in the folder) |
 | Goblin Trader | `goblin-trader/` | 3D goblin head (green) / horned vein goblin head (red) worn by the goblin traders; moss / nether wart block item overrides keyed on `custom_model_data`, original art (MIT) |
+| Background Music | `background-music/` (Java), `background-music-bedrock/` (Bedrock) | Optional music for server events; first track: the throne boss fight ("Battle of the Ages" by NoCopyrightSound633, Pixabay Content License, see the pack's `CREDITS.txt`); stereo Ogg, sound event `aaai:music.throne_boss` |
 | Advanced Netherite | `advanced-netherite/` | Textures/models for the AAAI-RM-AdvanceNetherite tiers (**GPL-3.0**, own licence file in the folder) |
 | Advanced Netherite (Bedrock) | `advanced-netherite-bedrock/` | Native Bedrock pack + Geyser mapping for those items (**GPL-3.0**) |
 

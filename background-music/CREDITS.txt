@@ -1,0 +1,5 @@
+Throne boss track: "Battle of the Ages" by NoCopyrightSound633
+Source: https://pixabay.com/music/main-title-battle-of-the-ages-280915/
+Licence: Pixabay Content License (https://pixabay.com/service/license-summary/), attribution not required but given.
+The track is trimmed, converted to Ogg Vorbis (mono) and given fade-in/fade-out for this pack; it is not redistributed unmodified.
+Pack structure and sounds.json: AAAI (original work).

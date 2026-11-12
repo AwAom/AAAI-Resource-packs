@@ -1,0 +1,13 @@
+{
+  "format_version": "1.14.0",
+  "sound_definitions": {
+    "aaai:music.throne_boss": {
+      "category": "music",
+      "max_distance": null,
+      "min_distance": null,
+      "sounds": [
+        { "name": "sounds/music/throne_boss", "stream": true, "volume": 1.0 }
+      ]
+    }
+  }
+}

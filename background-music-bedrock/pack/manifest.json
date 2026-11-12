@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "AAAI Background Music (Bedrock)",
+    "description": "Background music for AAAI server events (throne boss fight)",
+    "uuid": "827222ef-bc36-42a8-8c7d-6a11498c86e3",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "71831036-53e4-40a7-a373-0fe0fff8d8eb",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}
