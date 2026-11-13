@@ -1,0 +1,54 @@
+{
+  "resource_pack_name": "aaai",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "aaai.skill_xp_bottle_1k": {
+      "textures": "textures/items/skill_xp_bottle_1k"
+    },
+    "aaai.skill_xp_bottle_2k": {
+      "textures": "textures/items/skill_xp_bottle_2k"
+    },
+    "aaai.skill_xp_bottle_5k": {
+      "textures": "textures/items/skill_xp_bottle_5k"
+    },
+    "aaai.skill_xp_bottle_10k": {
+      "textures": "textures/items/skill_xp_bottle_10k"
+    },
+    "aaai.skill_xp_bottle_20k": {
+      "textures": "textures/items/skill_xp_bottle_20k"
+    },
+    "aaai.skill_xp_bottle_50k": {
+      "textures": "textures/items/skill_xp_bottle_50k"
+    },
+    "aaai.skill_xp_bottle_100k": {
+      "textures": "textures/items/skill_xp_bottle_100k"
+    },
+    "aaai.skill_xp_bottle_500k": {
+      "textures": "textures/items/skill_xp_bottle_500k"
+    },
+    "aaai.seeker_eye": {
+      "textures": "textures/items/seeker_eye"
+    },
+    "aaai.route_fragment": {
+      "textures": "textures/items/route_fragment"
+    },
+    "aaai.heavy_core_fragment": {
+      "textures": "textures/items/heavy_core_fragment"
+    },
+    "aaai.disarm_slime": {
+      "textures": "textures/items/disarm_slime"
+    },
+    "aaai.immortal_heart": {
+      "textures": "textures/items/immortal_heart"
+    },
+    "aaai.elytra_fragment": {
+      "textures": "textures/items/elytra_fragment"
+    },
+    "aaai.salty_bedrock": {
+      "textures": "textures/items/salty_bedrock"
+    },
+    "aaai.horcrux": {
+      "textures": "textures/items/horcrux"
+    }
+  }
+}

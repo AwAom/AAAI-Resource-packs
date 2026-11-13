@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "aaai:item/skill_xp_bottle_50k"
+  }
+}

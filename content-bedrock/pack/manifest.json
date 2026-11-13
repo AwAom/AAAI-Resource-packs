@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "AAAI Content (Bedrock)",
+    "description": "Textures for Skill XP Bottles, Seeker Eye and Route Fragment",
+    "uuid": "6d3e1a52-7b94-4c08-a1f6-2e85b0c97d43",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "c40b9e17-5a62-4d83-9f01-b7e3d6a2c58e",
+      "version": [
+        1,
+        0,
+        0
+      ]
+    }
+  ]
+}

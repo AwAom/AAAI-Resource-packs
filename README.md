@@ -11,6 +11,7 @@ Optional resource packs for the **Island SMP** Minecraft server (Java Edition). 
 | Pegasus | `pegasus/` | Coat + premium saddle for the Pegasus mount (equipment assets `aaaimob:pegasus_coat`, `aaaimob:pegasus_saddle`); the coat is based on "Pegasus" by DibArts (**CC BY 4.0**, own licence file in the folder) |
 | Goblin Trader | `goblin-trader/` | 3D goblin head (green) / horned vein goblin head (red) worn by the goblin traders; moss / nether wart block item overrides keyed on `custom_model_data`, original art (MIT) |
 | Background Music | `background-music/` (Java), `background-music-bedrock/` (Bedrock) | Optional music for server events; first track: the throne boss fight ("Battle of the Ages" by NoCopyrightSound633, Pixabay Content License, see the pack's `CREDITS.txt`); stereo Ogg, sound event `aaai:music.throne_boss` |
+| Original Content | `content/` (Java), `content-bedrock/` (Bedrock) | Original 16x16/32x32 pixel-art item textures for the server's own items: Skill XP Bottles 1k-500k, Seeker Eye, Route Fragment, Heavy Core Fragment, Disarm Slime, Immortal Heart, Elytra Fragment, Salty Bedrock, Horcrux (MIT, made for this server) |
 | Advanced Netherite | `advanced-netherite/` | Textures/models for the AAAI-RM-AdvanceNetherite tiers (**GPL-3.0**, own licence file in the folder) |
 | Advanced Netherite (Bedrock) | `advanced-netherite-bedrock/` | Native Bedrock pack + Geyser mapping for those items (**GPL-3.0**) |
 

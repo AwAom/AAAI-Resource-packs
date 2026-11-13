@@ -1,0 +1,275 @@
+{
+  "format_version": 2,
+  "items": {
+    "minecraft:experience_bottle": [
+      {
+        "type": "definition",
+        "model": "experience_bottle",
+        "bedrock_identifier": "aaai:skill_xp_bottle_1k",
+        "display_name": "Skill XP Bottle 1k",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "skill_xp_bottle_1k"
+        },
+        "bedrock_options": {
+          "icon": "aaai.skill_xp_bottle_1k",
+          "creative_category": "items"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "experience_bottle",
+        "bedrock_identifier": "aaai:skill_xp_bottle_2k",
+        "display_name": "Skill XP Bottle 2k",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "skill_xp_bottle_2k"
+        },
+        "bedrock_options": {
+          "icon": "aaai.skill_xp_bottle_2k",
+          "creative_category": "items"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "experience_bottle",
+        "bedrock_identifier": "aaai:skill_xp_bottle_5k",
+        "display_name": "Skill XP Bottle 5k",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "skill_xp_bottle_5k"
+        },
+        "bedrock_options": {
+          "icon": "aaai.skill_xp_bottle_5k",
+          "creative_category": "items"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "experience_bottle",
+        "bedrock_identifier": "aaai:skill_xp_bottle_10k",
+        "display_name": "Skill XP Bottle 10k",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "skill_xp_bottle_10k"
+        },
+        "bedrock_options": {
+          "icon": "aaai.skill_xp_bottle_10k",
+          "creative_category": "items"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "experience_bottle",
+        "bedrock_identifier": "aaai:skill_xp_bottle_20k",
+        "display_name": "Skill XP Bottle 20k",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "skill_xp_bottle_20k"
+        },
+        "bedrock_options": {
+          "icon": "aaai.skill_xp_bottle_20k",
+          "creative_category": "items"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "experience_bottle",
+        "bedrock_identifier": "aaai:skill_xp_bottle_50k",
+        "display_name": "Skill XP Bottle 50k",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "skill_xp_bottle_50k"
+        },
+        "bedrock_options": {
+          "icon": "aaai.skill_xp_bottle_50k",
+          "creative_category": "items"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "experience_bottle",
+        "bedrock_identifier": "aaai:skill_xp_bottle_100k",
+        "display_name": "Skill XP Bottle 100k",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "skill_xp_bottle_100k"
+        },
+        "bedrock_options": {
+          "icon": "aaai.skill_xp_bottle_100k",
+          "creative_category": "items"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "experience_bottle",
+        "bedrock_identifier": "aaai:skill_xp_bottle_500k",
+        "display_name": "Skill XP Bottle 500k",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "skill_xp_bottle_500k"
+        },
+        "bedrock_options": {
+          "icon": "aaai.skill_xp_bottle_500k",
+          "creative_category": "items"
+        }
+      }
+    ],
+    "minecraft:ender_eye": [
+      {
+        "type": "definition",
+        "model": "ender_eye",
+        "bedrock_identifier": "aaai:seeker_eye",
+        "display_name": "Seeker Eye",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "seeker_eye"
+        },
+        "bedrock_options": {
+          "icon": "aaai.seeker_eye",
+          "creative_category": "items"
+        }
+      }
+    ],
+    "minecraft:echo_shard": [
+      {
+        "type": "definition",
+        "model": "echo_shard",
+        "bedrock_identifier": "aaai:route_fragment",
+        "display_name": "Route Fragment",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "route_fragment"
+        },
+        "bedrock_options": {
+          "icon": "aaai.route_fragment",
+          "creative_category": "items"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "echo_shard",
+        "bedrock_identifier": "aaai:heavy_core_fragment",
+        "display_name": "Heavy Core Fragment",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "heavy_core_fragment"
+        },
+        "bedrock_options": {
+          "icon": "aaai.heavy_core_fragment",
+          "creative_category": "items"
+        }
+      }
+    ],
+    "minecraft:slime_ball": [
+      {
+        "type": "definition",
+        "model": "slime_ball",
+        "bedrock_identifier": "aaai:disarm_slime",
+        "display_name": "Disarm Slime",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "disarm_slime"
+        },
+        "bedrock_options": {
+          "icon": "aaai.disarm_slime",
+          "creative_category": "items"
+        }
+      }
+    ],
+    "minecraft:totem_of_undying": [
+      {
+        "type": "definition",
+        "model": "totem_of_undying",
+        "bedrock_identifier": "aaai:immortal_heart",
+        "display_name": "Immortal Heart",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "immortal_heart"
+        },
+        "bedrock_options": {
+          "icon": "aaai.immortal_heart",
+          "creative_category": "items"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "totem_of_undying",
+        "bedrock_identifier": "aaai:horcrux",
+        "display_name": "Horcrux",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "horcrux"
+        },
+        "bedrock_options": {
+          "icon": "aaai.horcrux",
+          "creative_category": "items"
+        }
+      }
+    ],
+    "minecraft:phantom_membrane": [
+      {
+        "type": "definition",
+        "model": "phantom_membrane",
+        "bedrock_identifier": "aaai:elytra_fragment",
+        "display_name": "Elytra Fragment",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "elytra_fragment"
+        },
+        "bedrock_options": {
+          "icon": "aaai.elytra_fragment",
+          "creative_category": "items"
+        }
+      }
+    ],
+    "minecraft:bedrock": [
+      {
+        "type": "definition",
+        "model": "bedrock",
+        "bedrock_identifier": "aaai:salty_bedrock",
+        "display_name": "Salty Bedrock",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "salty_bedrock"
+        },
+        "bedrock_options": {
+          "icon": "aaai.salty_bedrock",
+          "creative_category": "items"
+        }
+      }
+    ]
+  }
+}
