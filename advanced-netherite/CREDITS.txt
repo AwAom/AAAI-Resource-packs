@@ -1,0 +1,8 @@
+AAAI Advanced Netherite pack credits
+
+Textures, models and armor assets in assets/advancednetherite/ are from "Advanced Netherite" by Autovw
+(https://github.com/Autovw/AdvancedNetherite), licensed GPL-3.0 (see LICENSE-GPL-3.0.txt in this pack).
+Taken as a whole and adapted for a Paper server: the items are vanilla items wired through custom_model_data strings
+(netherite_<tier>_<kind>) instead of the original mod's registered items.
+
+Item definitions in assets/minecraft/items/ and the pack wiring: AAAI (AwAom), also GPL-3.0 as part of this derived work.

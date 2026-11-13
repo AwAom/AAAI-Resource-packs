@@ -1,0 +1,4 @@
+AAAI Mob (Bedrock) credits
+
+entity/horse_v3.entity.json is the vanilla Bedrock horse client entity definition (Mojang bedrock-samples, https://github.com/Mojang/bedrock-samples) with one added texture and a name-keyed render controller; no Mojang pixels are included.
+The pegasus texture is the pearl/aurora recolour of "Pegasus" by DibArts (https://sketchfab.com/youssefe22), CC BY 4.0 (http://creativecommons.org/licenses/by/4.0/), mapped onto the horse texture layout. Pack structure: AAAI (AwAom).

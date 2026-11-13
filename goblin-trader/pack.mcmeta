@@ -1,13 +1,43 @@
 {
- "pack": {
-  "description": "AAAI Goblin Trader - goblin skin for the wandering trader (original art)",
-  "min_format": [
-   88,
-   0
-  ],
-  "max_format": [
-   88,
-   0
-  ]
- }
+  "pack": {
+    "description": [
+      {
+        "text": "A",
+        "color": "#4A7BFF"
+      },
+      {
+        "text": "A",
+        "color": "#6A6CFF"
+      },
+      {
+        "text": "A",
+        "color": "#8A5CF5"
+      },
+      {
+        "text": "I",
+        "color": "#A24CE6"
+      },
+      {
+        "text": " - Goblin Trader",
+        "color": "gray"
+      },
+      "\n",
+      {
+        "text": "Created by ",
+        "color": "gray"
+      },
+      {
+        "text": "AwAom",
+        "color": "#FF69B4"
+      }
+    ],
+    "min_format": [
+      88,
+      0
+    ],
+    "max_format": [
+      88,
+      0
+    ]
+  }
 }

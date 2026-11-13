@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "AAAI Tomes (Bedrock)",
+    "description": "Textures for the XP Tome and Ancient Tome items",
+    "uuid": "2b6f0c84-93a1-4d57-8e2a-5c71d9a04b36",
+    "version": [
+      1,
+      0,
+      2
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "a91e47d2-0c58-4f13-b6e9-7d2a85c3f014",
+      "version": [
+        1,
+        0,
+        2
+      ]
+    }
+  ]
+}

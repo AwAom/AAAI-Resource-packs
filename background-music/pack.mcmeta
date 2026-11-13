@@ -1,13 +1,43 @@
 {
- "pack": {
-  "description": "AAAI Background Music - music for server events (throne boss fight)",
-  "min_format": [
-   88,
-   0
-  ],
-  "max_format": [
-   88,
-   0
-  ]
- }
+  "pack": {
+    "description": [
+      {
+        "text": "A",
+        "color": "#4A7BFF"
+      },
+      {
+        "text": "A",
+        "color": "#6A6CFF"
+      },
+      {
+        "text": "A",
+        "color": "#8A5CF5"
+      },
+      {
+        "text": "I",
+        "color": "#A24CE6"
+      },
+      {
+        "text": " - Sound & Music",
+        "color": "gray"
+      },
+      "\n",
+      {
+        "text": "Created by ",
+        "color": "gray"
+      },
+      {
+        "text": "AwAom",
+        "color": "#FF69B4"
+      }
+    ],
+    "min_format": [
+      88,
+      0
+    ],
+    "max_format": [
+      88,
+      0
+    ]
+  }
 }

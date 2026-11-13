@@ -1,6 +1,36 @@
 {
   "pack": {
-    "description": "AAAI Content - Skill XP Bottles, Seeker Eye, Route Fragment textures (optional)",
+    "description": [
+      {
+        "text": "A",
+        "color": "#4A7BFF"
+      },
+      {
+        "text": "A",
+        "color": "#6A6CFF"
+      },
+      {
+        "text": "A",
+        "color": "#8A5CF5"
+      },
+      {
+        "text": "I",
+        "color": "#A24CE6"
+      },
+      {
+        "text": " - Content",
+        "color": "gray"
+      },
+      "\n",
+      {
+        "text": "Created by ",
+        "color": "gray"
+      },
+      {
+        "text": "AwAom",
+        "color": "#FF69B4"
+      }
+    ],
     "min_format": [
       88,
       0

@@ -1,0 +1,38 @@
+{
+  "format_version": "1.8.0",
+  "render_controllers": {
+    "controller.render.aaai_pegasus": {
+      "part_visibility": [
+        {
+          "Saddle": "query.is_saddled"
+        },
+        {
+          "Bit*": "query.is_saddled"
+        },
+        {
+          "Bridle": "query.is_saddled"
+        },
+        {
+          "Reins*": "query.is_saddled && query.has_rider"
+        },
+        {
+          "Bag*": false
+        },
+        {
+          "MuleEar*": false
+        }
+      ],
+      "geometry": "Geometry.pegasus",
+      "materials": [
+        {
+          "*": "Material.default"
+        }
+      ],
+      "textures": [
+        "Texture.aaai_pegasus",
+        "Texture.markings_none",
+        "Texture.armor_none"
+      ]
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "AAAI Mob (Bedrock)",
+    "description": "Pegasus coat for horses named Pegasus",
+    "uuid": "ccfa03e4-56ca-4de3-bc5d-6f7eba728230",
+    "version": [
+      1,
+      1,
+      0
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "113db931-0104-482c-a9be-cf20c60f528a",
+      "version": [
+        1,
+        1,
+        0
+      ]
+    }
+  ]
+}

@@ -1,6 +1,36 @@
 {
   "pack": {
-    "description": "AAAI Advanced Netherite v1.1.28 (GPL-3.0 / AGPL-3.0)",
+    "description": [
+      {
+        "text": "A",
+        "color": "#4A7BFF"
+      },
+      {
+        "text": "A",
+        "color": "#6A6CFF"
+      },
+      {
+        "text": "A",
+        "color": "#8A5CF5"
+      },
+      {
+        "text": "I",
+        "color": "#A24CE6"
+      },
+      {
+        "text": " - Advanced Netherite",
+        "color": "gray"
+      },
+      "\n",
+      {
+        "text": "Created by ",
+        "color": "gray"
+      },
+      {
+        "text": "AwAom",
+        "color": "#FF69B4"
+      }
+    ],
     "min_format": [
       88,
       0

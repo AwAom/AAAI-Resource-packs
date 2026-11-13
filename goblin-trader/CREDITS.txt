@@ -9,3 +9,5 @@ Copyright (c) 2023 MrCrayfish, https://github.com/MrCrayfish/GoblinTraders). No 
 
 The pack only changes moss / nether wart blocks that carry custom_model_data "goblin_trader_head" or "vein_goblin_trader_head" (worn by
 our goblin traders); every other block item and every wandering trader looks vanilla.
+
+pack.png (icon): original composition by AwAom (goblin head model of this pack, trade-window frame and all item icons hand-drawn in pixel art). No Mojang pixels, no third-party art.
