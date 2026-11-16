@@ -1,0 +1,34 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "cases": [
+      {
+        "when": "menu_skills",
+        "model": {
+          "type": "minecraft:model",
+          "model": "aaai:item/menu_skills"
+        }
+      },
+      {
+        "when": "menu_info",
+        "model": {
+          "type": "minecraft:model",
+          "model": "aaai:item/menu_info"
+        }
+      },
+      {
+        "when": "menu_grp_character",
+        "model": {
+          "type": "minecraft:model",
+          "model": "aaai:item/menu_grp_character"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/knowledge_book"
+    }
+  }
+}

@@ -1,0 +1,99 @@
+{
+ "providers": [
+  {
+   "type": "bitmap",
+   "file": "aaai:font/hud_armor_icon.png",
+   "ascent": 5,
+   "height": 9,
+   "chars": [
+    "\ue0f2"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "aaai:font/hud_heart_gold.png",
+   "ascent": 5,
+   "height": 9,
+   "chars": [
+    "\ue0f3"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "aaai:font/hud_air_icon.png",
+   "ascent": 5,
+   "height": 9,
+   "chars": [
+    "\ue0f5"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "aaai:font/hud_mana_icon.png",
+   "ascent": 5,
+   "height": 9,
+   "chars": [
+    "\ue0f6"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "aaai:font/hud_shield_icon.png",
+   "ascent": 5,
+   "height": 9,
+   "chars": [
+    "\ue0f7"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "aaai:font/hud_mana_tiles.png",
+   "ascent": 5,
+   "height": 9,
+   "chars": [
+    "\ue600\ue601\ue602\ue603\ue604\ue605\ue606\ue607\ue608"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "aaai:font/hud_mana_tiles9.png",
+   "ascent": 5,
+   "height": 9,
+   "chars": [
+    "\ue610\ue611\ue612\ue613\ue614\ue615\ue616\ue617\ue618\ue619"
+   ]
+  },
+  {
+   "type": "bitmap",
+   "file": "aaai:font/hud_digits.png",
+   "ascent": 4,
+   "height": 7,
+   "chars": [
+    "\ue200\ue201\ue202\ue203\ue204\ue205\ue206\ue207\ue208\ue209\ue20a\ue20b\ue20c"
+   ]
+  },
+  {
+   "type": "space",
+   "advances": {
+    "\ue100": 1,
+    "\ue110": -1,
+    "\ue101": 2,
+    "\ue111": -2,
+    "\ue102": 4,
+    "\ue112": -4,
+    "\ue103": 8,
+    "\ue113": -8,
+    "\ue104": 16,
+    "\ue114": -16,
+    "\ue105": 32,
+    "\ue115": -32,
+    "\ue106": 64,
+    "\ue116": -64,
+    "\ue107": 128,
+    "\ue117": -128,
+    "\ue108": 256,
+    "\ue118": -256
+   }
+  }
+ ]
+}

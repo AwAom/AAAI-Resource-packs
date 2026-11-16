@@ -1,0 +1,27 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "cases": [
+      {
+        "when": "menu_tpatoggle",
+        "model": {
+          "type": "minecraft:model",
+          "model": "aaai:item/menu_tpatoggle"
+        }
+      },
+      {
+        "when": "menu_settings",
+        "model": {
+          "type": "minecraft:model",
+          "model": "aaai:item/menu_settings"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/comparator"
+    }
+  }
+}

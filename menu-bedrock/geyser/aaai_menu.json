@@ -1,0 +1,962 @@
+{
+  "format_version": 2,
+  "items": {
+    "minecraft:lime_dye": [
+      {
+        "type": "definition",
+        "model": "lime_dye",
+        "bedrock_identifier": "aaai:menu_tpaccept",
+        "display_name": "Menu Accept Teleport",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_tpaccept"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_tpaccept",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:red_dye": [
+      {
+        "type": "definition",
+        "model": "red_dye",
+        "bedrock_identifier": "aaai:menu_tpdeny",
+        "display_name": "Menu Deny Teleport",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_tpdeny"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_tpdeny",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:orange_dye": [
+      {
+        "type": "definition",
+        "model": "orange_dye",
+        "bedrock_identifier": "aaai:menu_tpacancel",
+        "display_name": "Menu Cancel Teleport",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_tpacancel"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_tpacancel",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:ender_pearl": [
+      {
+        "type": "definition",
+        "model": "ender_pearl",
+        "bedrock_identifier": "aaai:menu_warp",
+        "display_name": "Menu Warp",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_warp"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_warp",
+          "creative_category": "none"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "ender_pearl",
+        "bedrock_identifier": "aaai:menu_grp_travel",
+        "display_name": "Menu Group Travel",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_grp_travel"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_grp_travel",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:flower_pot": [
+      {
+        "type": "definition",
+        "model": "flower_pot",
+        "bedrock_identifier": "aaai:menu_home",
+        "display_name": "Menu Home",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_home"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_home",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:cyan_dye": [
+      {
+        "type": "definition",
+        "model": "cyan_dye",
+        "bedrock_identifier": "aaai:menu_party",
+        "display_name": "Menu Party",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_party"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_party",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:paper": [
+      {
+        "type": "definition",
+        "model": "paper",
+        "bedrock_identifier": "aaai:menu_mail",
+        "display_name": "Menu Mailbox",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_mail"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_mail",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:name_tag": [
+      {
+        "type": "definition",
+        "model": "name_tag",
+        "bedrock_identifier": "aaai:menu_tpa",
+        "display_name": "Menu Teleport To Player",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_tpa"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_tpa",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:bell": [
+      {
+        "type": "definition",
+        "model": "bell",
+        "bedrock_identifier": "aaai:menu_tpahere",
+        "display_name": "Menu Teleport Player Here",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_tpahere"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_tpahere",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:comparator": [
+      {
+        "type": "definition",
+        "model": "comparator",
+        "bedrock_identifier": "aaai:menu_tpatoggle",
+        "display_name": "Menu Teleport Toggle",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_tpatoggle"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_tpatoggle",
+          "creative_category": "none"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "comparator",
+        "bedrock_identifier": "aaai:menu_settings",
+        "display_name": "Menu Settings",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_settings"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_settings",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:map": [
+      {
+        "type": "definition",
+        "model": "map",
+        "bedrock_identifier": "aaai:menu_scoreboard",
+        "display_name": "Menu Scoreboard",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_scoreboard"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_scoreboard",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:diamond": [
+      {
+        "type": "definition",
+        "model": "diamond",
+        "bedrock_identifier": "aaai:menu_balance",
+        "display_name": "Menu Balance",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_balance"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_balance",
+          "creative_category": "none"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "diamond",
+        "bedrock_identifier": "aaai:menu_bank",
+        "display_name": "Menu Bank",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_bank"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_bank",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:hopper": [
+      {
+        "type": "definition",
+        "model": "hopper",
+        "bedrock_identifier": "aaai:menu_sell",
+        "display_name": "Menu Sell",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_sell"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_sell",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:emerald": [
+      {
+        "type": "definition",
+        "model": "emerald",
+        "bedrock_identifier": "aaai:menu_shop",
+        "display_name": "Menu Shop",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_shop"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_shop",
+          "creative_category": "none"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "emerald",
+        "bedrock_identifier": "aaai:menu_grp_money",
+        "display_name": "Menu Group Money",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_grp_money"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_grp_money",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:wheat": [
+      {
+        "type": "definition",
+        "model": "wheat",
+        "bedrock_identifier": "aaai:menu_stall",
+        "display_name": "Menu Stall",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_stall"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_stall",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:iron_nugget": [
+      {
+        "type": "definition",
+        "model": "iron_nugget",
+        "bedrock_identifier": "aaai:menu_protect",
+        "display_name": "Menu Protect",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_protect"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_protect",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:knowledge_book": [
+      {
+        "type": "definition",
+        "model": "knowledge_book",
+        "bedrock_identifier": "aaai:menu_skills",
+        "display_name": "Menu Skills",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_skills"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_skills",
+          "creative_category": "none"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "knowledge_book",
+        "bedrock_identifier": "aaai:menu_info",
+        "display_name": "Menu Info",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_info"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_info",
+          "creative_category": "none"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "knowledge_book",
+        "bedrock_identifier": "aaai:menu_grp_character",
+        "display_name": "Menu Group Character",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_grp_character"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_grp_character",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:leather": [
+      {
+        "type": "definition",
+        "model": "leather",
+        "bedrock_identifier": "aaai:menu_backpack",
+        "display_name": "Menu Backpack",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_backpack"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_backpack",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:clock": [
+      {
+        "type": "definition",
+        "model": "clock",
+        "bedrock_identifier": "aaai:menu_clock",
+        "display_name": "Menu Clock",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_clock"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_clock",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:green_dye": [
+      {
+        "type": "definition",
+        "model": "green_dye",
+        "bedrock_identifier": "aaai:menu_clock_ok",
+        "display_name": "Menu Has Clock",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_clock_ok"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_clock_ok",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:barrier": [
+      {
+        "type": "definition",
+        "model": "barrier",
+        "bedrock_identifier": "aaai:menu_close",
+        "display_name": "Menu Close",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_close"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_close",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:painting": [
+      {
+        "type": "definition",
+        "model": "painting",
+        "bedrock_identifier": "aaai:menu_resourcepack",
+        "display_name": "Menu Resource Pack",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_resourcepack"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_resourcepack",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:iron_sword": [
+      {
+        "type": "definition",
+        "model": "iron_sword",
+        "bedrock_identifier": "aaai:menu_damage",
+        "display_name": "Menu Damage Indicator",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_damage"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_damage",
+          "creative_category": "none"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "iron_sword",
+        "bedrock_identifier": "aaai:menu_partysafe",
+        "display_name": "Menu Party Safe",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_partysafe"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_partysafe",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:amethyst_shard": [
+      {
+        "type": "definition",
+        "model": "amethyst_shard",
+        "bedrock_identifier": "aaai:menu_race",
+        "display_name": "Menu Race",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_race"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_race",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:lapis_lazuli": [
+      {
+        "type": "definition",
+        "model": "lapis_lazuli",
+        "bedrock_identifier": "aaai:menu_grp_social",
+        "display_name": "Menu Group Social",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_grp_social"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_grp_social",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:nether_star": [
+      {
+        "type": "definition",
+        "model": "nether_star",
+        "bedrock_identifier": "aaai:menu_favedit",
+        "display_name": "Menu Favourite Edit",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_favedit"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_favedit",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:light_gray_stained_glass_pane": [
+      {
+        "type": "definition",
+        "model": "light_gray_stained_glass_pane",
+        "bedrock_identifier": "aaai:menu_fav_empty",
+        "display_name": "Menu Favourite Empty",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_fav_empty"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_fav_empty",
+          "creative_category": "none"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:light_gray_stained_glass_pane",
+        "bedrock_identifier": "aaai:light_gray_stained_glass_pane",
+        "display_name": "Light Gray Stained Glass Pane",
+        "predicate": {
+          "type": "condition",
+          "property": "has_component",
+          "component": "minecraft:custom_name"
+        },
+        "bedrock_options": {
+          "icon": "aaai_light_gray_stained_glass_pane",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:stick": [
+      {
+        "type": "definition",
+        "model": "stick",
+        "bedrock_identifier": "aaai:menu_slash",
+        "display_name": "Menu Favourite Command",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_slash"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_slash",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:lead": [
+      {
+        "type": "definition",
+        "model": "lead",
+        "bedrock_identifier": "aaai:menu_ally",
+        "display_name": "Menu Ally",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_ally"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_ally",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:feather": [
+      {
+        "type": "definition",
+        "model": "feather",
+        "bedrock_identifier": "aaai:menu_pegasus",
+        "display_name": "Menu Pegasus",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_pegasus"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_pegasus",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:gold_nugget": [
+      {
+        "type": "definition",
+        "model": "gold_nugget",
+        "bedrock_identifier": "aaai:menu_pay",
+        "display_name": "Menu Pay",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_pay"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_pay",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:glass_pane": [
+      {
+        "type": "definition",
+        "model": "minecraft:glass_pane",
+        "bedrock_identifier": "aaai:glass_pane",
+        "display_name": "Glass Pane",
+        "predicate": {
+          "type": "condition",
+          "property": "has_component",
+          "component": "minecraft:custom_name"
+        },
+        "bedrock_options": {
+          "icon": "aaai_glass_pane",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:white_stained_glass_pane": [
+      {
+        "type": "definition",
+        "model": "minecraft:white_stained_glass_pane",
+        "bedrock_identifier": "aaai:white_stained_glass_pane",
+        "display_name": "White Stained Glass Pane",
+        "predicate": {
+          "type": "condition",
+          "property": "has_component",
+          "component": "minecraft:custom_name"
+        },
+        "bedrock_options": {
+          "icon": "aaai_white_stained_glass_pane",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:orange_stained_glass_pane": [
+      {
+        "type": "definition",
+        "model": "minecraft:orange_stained_glass_pane",
+        "bedrock_identifier": "aaai:orange_stained_glass_pane",
+        "display_name": "Orange Stained Glass Pane",
+        "predicate": {
+          "type": "condition",
+          "property": "has_component",
+          "component": "minecraft:custom_name"
+        },
+        "bedrock_options": {
+          "icon": "aaai_orange_stained_glass_pane",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:magenta_stained_glass_pane": [
+      {
+        "type": "definition",
+        "model": "minecraft:magenta_stained_glass_pane",
+        "bedrock_identifier": "aaai:magenta_stained_glass_pane",
+        "display_name": "Magenta Stained Glass Pane",
+        "predicate": {
+          "type": "condition",
+          "property": "has_component",
+          "component": "minecraft:custom_name"
+        },
+        "bedrock_options": {
+          "icon": "aaai_magenta_stained_glass_pane",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:light_blue_stained_glass_pane": [
+      {
+        "type": "definition",
+        "model": "minecraft:light_blue_stained_glass_pane",
+        "bedrock_identifier": "aaai:light_blue_stained_glass_pane",
+        "display_name": "Light Blue Stained Glass Pane",
+        "predicate": {
+          "type": "condition",
+          "property": "has_component",
+          "component": "minecraft:custom_name"
+        },
+        "bedrock_options": {
+          "icon": "aaai_light_blue_stained_glass_pane",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:yellow_stained_glass_pane": [
+      {
+        "type": "definition",
+        "model": "minecraft:yellow_stained_glass_pane",
+        "bedrock_identifier": "aaai:yellow_stained_glass_pane",
+        "display_name": "Yellow Stained Glass Pane",
+        "predicate": {
+          "type": "condition",
+          "property": "has_component",
+          "component": "minecraft:custom_name"
+        },
+        "bedrock_options": {
+          "icon": "aaai_yellow_stained_glass_pane",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:lime_stained_glass_pane": [
+      {
+        "type": "definition",
+        "model": "minecraft:lime_stained_glass_pane",
+        "bedrock_identifier": "aaai:lime_stained_glass_pane",
+        "display_name": "Lime Stained Glass Pane",
+        "predicate": {
+          "type": "condition",
+          "property": "has_component",
+          "component": "minecraft:custom_name"
+        },
+        "bedrock_options": {
+          "icon": "aaai_lime_stained_glass_pane",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:pink_stained_glass_pane": [
+      {
+        "type": "definition",
+        "model": "minecraft:pink_stained_glass_pane",
+        "bedrock_identifier": "aaai:pink_stained_glass_pane",
+        "display_name": "Pink Stained Glass Pane",
+        "predicate": {
+          "type": "condition",
+          "property": "has_component",
+          "component": "minecraft:custom_name"
+        },
+        "bedrock_options": {
+          "icon": "aaai_pink_stained_glass_pane",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:gray_stained_glass_pane": [
+      {
+        "type": "definition",
+        "model": "minecraft:gray_stained_glass_pane",
+        "bedrock_identifier": "aaai:gray_stained_glass_pane",
+        "display_name": "Gray Stained Glass Pane",
+        "predicate": {
+          "type": "condition",
+          "property": "has_component",
+          "component": "minecraft:custom_name"
+        },
+        "bedrock_options": {
+          "icon": "aaai_gray_stained_glass_pane",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:cyan_stained_glass_pane": [
+      {
+        "type": "definition",
+        "model": "minecraft:cyan_stained_glass_pane",
+        "bedrock_identifier": "aaai:cyan_stained_glass_pane",
+        "display_name": "Cyan Stained Glass Pane",
+        "predicate": {
+          "type": "condition",
+          "property": "has_component",
+          "component": "minecraft:custom_name"
+        },
+        "bedrock_options": {
+          "icon": "aaai_cyan_stained_glass_pane",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:purple_stained_glass_pane": [
+      {
+        "type": "definition",
+        "model": "minecraft:purple_stained_glass_pane",
+        "bedrock_identifier": "aaai:purple_stained_glass_pane",
+        "display_name": "Purple Stained Glass Pane",
+        "predicate": {
+          "type": "condition",
+          "property": "has_component",
+          "component": "minecraft:custom_name"
+        },
+        "bedrock_options": {
+          "icon": "aaai_purple_stained_glass_pane",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:blue_stained_glass_pane": [
+      {
+        "type": "definition",
+        "model": "minecraft:blue_stained_glass_pane",
+        "bedrock_identifier": "aaai:blue_stained_glass_pane",
+        "display_name": "Blue Stained Glass Pane",
+        "predicate": {
+          "type": "condition",
+          "property": "has_component",
+          "component": "minecraft:custom_name"
+        },
+        "bedrock_options": {
+          "icon": "aaai_blue_stained_glass_pane",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:brown_stained_glass_pane": [
+      {
+        "type": "definition",
+        "model": "minecraft:brown_stained_glass_pane",
+        "bedrock_identifier": "aaai:brown_stained_glass_pane",
+        "display_name": "Brown Stained Glass Pane",
+        "predicate": {
+          "type": "condition",
+          "property": "has_component",
+          "component": "minecraft:custom_name"
+        },
+        "bedrock_options": {
+          "icon": "aaai_brown_stained_glass_pane",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:green_stained_glass_pane": [
+      {
+        "type": "definition",
+        "model": "minecraft:green_stained_glass_pane",
+        "bedrock_identifier": "aaai:green_stained_glass_pane",
+        "display_name": "Green Stained Glass Pane",
+        "predicate": {
+          "type": "condition",
+          "property": "has_component",
+          "component": "minecraft:custom_name"
+        },
+        "bedrock_options": {
+          "icon": "aaai_green_stained_glass_pane",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:red_stained_glass_pane": [
+      {
+        "type": "definition",
+        "model": "minecraft:red_stained_glass_pane",
+        "bedrock_identifier": "aaai:red_stained_glass_pane",
+        "display_name": "Red Stained Glass Pane",
+        "predicate": {
+          "type": "condition",
+          "property": "has_component",
+          "component": "minecraft:custom_name"
+        },
+        "bedrock_options": {
+          "icon": "aaai_red_stained_glass_pane",
+          "creative_category": "none"
+        }
+      }
+    ],
+    "minecraft:black_stained_glass_pane": [
+      {
+        "type": "definition",
+        "model": "minecraft:black_stained_glass_pane",
+        "bedrock_identifier": "aaai:black_stained_glass_pane",
+        "display_name": "Black Stained Glass Pane",
+        "predicate": {
+          "type": "condition",
+          "property": "has_component",
+          "component": "minecraft:custom_name"
+        },
+        "bedrock_options": {
+          "icon": "aaai_black_stained_glass_pane",
+          "creative_category": "none"
+        }
+      }
+    ]
+  }
+}

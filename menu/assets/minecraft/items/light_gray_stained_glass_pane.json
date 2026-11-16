@@ -1,0 +1,20 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "cases": [
+      {
+        "when": "menu_fav_empty",
+        "model": {
+          "type": "minecraft:model",
+          "model": "aaai:item/menu_fav_empty"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/light_gray_stained_glass_pane"
+    }
+  }
+}

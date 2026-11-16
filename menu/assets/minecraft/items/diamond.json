@@ -1,0 +1,27 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "cases": [
+      {
+        "when": "menu_balance",
+        "model": {
+          "type": "minecraft:model",
+          "model": "aaai:item/menu_balance"
+        }
+      },
+      {
+        "when": "menu_bank",
+        "model": {
+          "type": "minecraft:model",
+          "model": "aaai:item/menu_bank"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/diamond"
+    }
+  }
+}

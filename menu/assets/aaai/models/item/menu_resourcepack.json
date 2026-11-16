@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "minecraft:item/painting",
+    "layer1": "aaai:item/menu_resourcepack_ov"
+  }
+}

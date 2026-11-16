@@ -1,0 +1,27 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "cases": [
+      {
+        "when": "menu_warp",
+        "model": {
+          "type": "minecraft:model",
+          "model": "aaai:item/menu_warp"
+        }
+      },
+      {
+        "when": "menu_grp_travel",
+        "model": {
+          "type": "minecraft:model",
+          "model": "aaai:item/menu_grp_travel"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/ender_pearl"
+    }
+  }
+}
