@@ -116,6 +116,9 @@
     "aaai.menu_settings": {
       "textures": "textures/items/menu_settings"
     },
+    "aaai.menu_reward_hidden": {
+      "textures": "textures/items/menu_reward_hidden"
+    },
     "aaai_glass_pane": {
       "textures": "textures/blocks/glass"
     },

@@ -49,6 +49,30 @@
     },
     "aaai.horcrux": {
       "textures": "textures/items/horcrux"
+    },
+    "aaai.skill_xp_bottle_1k_empty": {
+      "textures": "textures/items/skill_xp_bottle_1k_empty"
+    },
+    "aaai.skill_xp_bottle_2k_empty": {
+      "textures": "textures/items/skill_xp_bottle_2k_empty"
+    },
+    "aaai.skill_xp_bottle_5k_empty": {
+      "textures": "textures/items/skill_xp_bottle_5k_empty"
+    },
+    "aaai.skill_xp_bottle_10k_empty": {
+      "textures": "textures/items/skill_xp_bottle_10k_empty"
+    },
+    "aaai.skill_xp_bottle_20k_empty": {
+      "textures": "textures/items/skill_xp_bottle_20k_empty"
+    },
+    "aaai.skill_xp_bottle_50k_empty": {
+      "textures": "textures/items/skill_xp_bottle_50k_empty"
+    },
+    "aaai.skill_xp_bottle_100k_empty": {
+      "textures": "textures/items/skill_xp_bottle_100k_empty"
+    },
+    "aaai.skill_xp_bottle_500k_empty": {
+      "textures": "textures/items/skill_xp_bottle_500k_empty"
     }
   }
 }

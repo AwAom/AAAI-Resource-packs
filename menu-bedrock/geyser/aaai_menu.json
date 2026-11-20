@@ -686,6 +686,24 @@
         }
       }
     ],
+    "minecraft:barrel": [
+      {
+        "type": "definition",
+        "model": "barrel",
+        "bedrock_identifier": "aaai:menu_reward_hidden",
+        "display_name": "Menu Reward Hidden",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "menu_reward_hidden"
+        },
+        "bedrock_options": {
+          "icon": "aaai.menu_reward_hidden",
+          "creative_category": "none"
+        }
+      }
+    ],
     "minecraft:glass_pane": [
       {
         "type": "definition",

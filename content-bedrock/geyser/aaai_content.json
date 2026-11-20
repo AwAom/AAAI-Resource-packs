@@ -270,6 +270,136 @@
           "creative_category": "items"
         }
       }
+    ],
+    "minecraft:glass_bottle": [
+      {
+        "type": "definition",
+        "model": "glass_bottle",
+        "bedrock_identifier": "aaai:skill_xp_bottle_1k_empty",
+        "display_name": "Skill XP Bottle 1k (empty icon)",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "skill_xp_bottle_1k_empty"
+        },
+        "bedrock_options": {
+          "icon": "aaai.skill_xp_bottle_1k_empty",
+          "creative_category": "items"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "glass_bottle",
+        "bedrock_identifier": "aaai:skill_xp_bottle_2k_empty",
+        "display_name": "Skill XP Bottle 2k (empty icon)",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "skill_xp_bottle_2k_empty"
+        },
+        "bedrock_options": {
+          "icon": "aaai.skill_xp_bottle_2k_empty",
+          "creative_category": "items"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "glass_bottle",
+        "bedrock_identifier": "aaai:skill_xp_bottle_5k_empty",
+        "display_name": "Skill XP Bottle 5k (empty icon)",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "skill_xp_bottle_5k_empty"
+        },
+        "bedrock_options": {
+          "icon": "aaai.skill_xp_bottle_5k_empty",
+          "creative_category": "items"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "glass_bottle",
+        "bedrock_identifier": "aaai:skill_xp_bottle_10k_empty",
+        "display_name": "Skill XP Bottle 10k (empty icon)",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "skill_xp_bottle_10k_empty"
+        },
+        "bedrock_options": {
+          "icon": "aaai.skill_xp_bottle_10k_empty",
+          "creative_category": "items"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "glass_bottle",
+        "bedrock_identifier": "aaai:skill_xp_bottle_20k_empty",
+        "display_name": "Skill XP Bottle 20k (empty icon)",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "skill_xp_bottle_20k_empty"
+        },
+        "bedrock_options": {
+          "icon": "aaai.skill_xp_bottle_20k_empty",
+          "creative_category": "items"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "glass_bottle",
+        "bedrock_identifier": "aaai:skill_xp_bottle_50k_empty",
+        "display_name": "Skill XP Bottle 50k (empty icon)",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "skill_xp_bottle_50k_empty"
+        },
+        "bedrock_options": {
+          "icon": "aaai.skill_xp_bottle_50k_empty",
+          "creative_category": "items"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "glass_bottle",
+        "bedrock_identifier": "aaai:skill_xp_bottle_100k_empty",
+        "display_name": "Skill XP Bottle 100k (empty icon)",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "skill_xp_bottle_100k_empty"
+        },
+        "bedrock_options": {
+          "icon": "aaai.skill_xp_bottle_100k_empty",
+          "creative_category": "items"
+        }
+      },
+      {
+        "type": "definition",
+        "model": "glass_bottle",
+        "bedrock_identifier": "aaai:skill_xp_bottle_500k_empty",
+        "display_name": "Skill XP Bottle 500k (empty icon)",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "skill_xp_bottle_500k_empty"
+        },
+        "bedrock_options": {
+          "icon": "aaai.skill_xp_bottle_500k_empty",
+          "creative_category": "items"
+        }
+      }
     ]
   }
 }
