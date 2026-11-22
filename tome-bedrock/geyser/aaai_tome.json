@@ -44,6 +44,120 @@
         "components": {
           "minecraft:max_stack_size": 1
         }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:book",
+        "bedrock_identifier": "aaai:ancient_tome_bundle_1",
+        "display_name": "Ancient Tome Bundle (E)",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "ancient_tome_bundle_1"
+        },
+        "bedrock_options": {
+          "icon": "aaai.ancient_tome_bundle_1",
+          "creative_category": "items"
+        },
+        "components": {
+          "minecraft:max_stack_size": 64
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:book",
+        "bedrock_identifier": "aaai:ancient_tome_bundle_2",
+        "display_name": "Ancient Tome Bundle (D)",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "ancient_tome_bundle_2"
+        },
+        "bedrock_options": {
+          "icon": "aaai.ancient_tome_bundle_2",
+          "creative_category": "items"
+        },
+        "components": {
+          "minecraft:max_stack_size": 64
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:book",
+        "bedrock_identifier": "aaai:ancient_tome_bundle_3",
+        "display_name": "Ancient Tome Bundle (C)",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "ancient_tome_bundle_3"
+        },
+        "bedrock_options": {
+          "icon": "aaai.ancient_tome_bundle_3",
+          "creative_category": "items"
+        },
+        "components": {
+          "minecraft:max_stack_size": 64
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:book",
+        "bedrock_identifier": "aaai:ancient_tome_bundle_4",
+        "display_name": "Ancient Tome Bundle (B)",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "ancient_tome_bundle_4"
+        },
+        "bedrock_options": {
+          "icon": "aaai.ancient_tome_bundle_4",
+          "creative_category": "items"
+        },
+        "components": {
+          "minecraft:max_stack_size": 64
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:book",
+        "bedrock_identifier": "aaai:ancient_tome_bundle_5",
+        "display_name": "Ancient Tome Bundle (A)",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "ancient_tome_bundle_5"
+        },
+        "bedrock_options": {
+          "icon": "aaai.ancient_tome_bundle_5",
+          "creative_category": "items"
+        },
+        "components": {
+          "minecraft:max_stack_size": 64
+        }
+      },
+      {
+        "type": "definition",
+        "model": "minecraft:book",
+        "bedrock_identifier": "aaai:ancient_tome_bundle_6",
+        "display_name": "Ancient Tome Bundle (S)",
+        "predicate": {
+          "type": "match",
+          "property": "custom_model_data",
+          "index": 0,
+          "value": "ancient_tome_bundle_6"
+        },
+        "bedrock_options": {
+          "icon": "aaai.ancient_tome_bundle_6",
+          "creative_category": "items"
+        },
+        "components": {
+          "minecraft:max_stack_size": 64
+        }
       }
     ]
   }

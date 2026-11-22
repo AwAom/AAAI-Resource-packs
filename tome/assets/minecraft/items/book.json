@@ -6,13 +6,64 @@
     "cases": [
       {
         "when": "xp_tome",
-        "model": { "type": "minecraft:model", "model": "aaai:item/xp_tome" }
+        "model": {
+          "type": "minecraft:model",
+          "model": "aaai:item/xp_tome"
+        }
       },
       {
         "when": "ancient_tome",
-        "model": { "type": "minecraft:model", "model": "aaai:item/ancient_tome" }
+        "model": {
+          "type": "minecraft:model",
+          "model": "aaai:item/ancient_tome"
+        }
+      },
+      {
+        "when": "ancient_tome_bundle_1",
+        "model": {
+          "type": "minecraft:model",
+          "model": "aaai:item/ancient_tome_bundle_1"
+        }
+      },
+      {
+        "when": "ancient_tome_bundle_2",
+        "model": {
+          "type": "minecraft:model",
+          "model": "aaai:item/ancient_tome_bundle_2"
+        }
+      },
+      {
+        "when": "ancient_tome_bundle_3",
+        "model": {
+          "type": "minecraft:model",
+          "model": "aaai:item/ancient_tome_bundle_3"
+        }
+      },
+      {
+        "when": "ancient_tome_bundle_4",
+        "model": {
+          "type": "minecraft:model",
+          "model": "aaai:item/ancient_tome_bundle_4"
+        }
+      },
+      {
+        "when": "ancient_tome_bundle_5",
+        "model": {
+          "type": "minecraft:model",
+          "model": "aaai:item/ancient_tome_bundle_5"
+        }
+      },
+      {
+        "when": "ancient_tome_bundle_6",
+        "model": {
+          "type": "minecraft:model",
+          "model": "aaai:item/ancient_tome_bundle_6"
+        }
       }
     ],
-    "fallback": { "type": "minecraft:model", "model": "minecraft:item/book" }
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/book"
+    }
   }
 }

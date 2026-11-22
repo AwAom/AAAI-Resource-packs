@@ -7,6 +7,24 @@
     },
     "aaai.ancient_tome": {
       "textures": "textures/items/ancient_tome"
+    },
+    "aaai.ancient_tome_bundle_1": {
+      "textures": "textures/items/ancient_tome_bundle_1"
+    },
+    "aaai.ancient_tome_bundle_2": {
+      "textures": "textures/items/ancient_tome_bundle_2"
+    },
+    "aaai.ancient_tome_bundle_3": {
+      "textures": "textures/items/ancient_tome_bundle_3"
+    },
+    "aaai.ancient_tome_bundle_4": {
+      "textures": "textures/items/ancient_tome_bundle_4"
+    },
+    "aaai.ancient_tome_bundle_5": {
+      "textures": "textures/items/ancient_tome_bundle_5"
+    },
+    "aaai.ancient_tome_bundle_6": {
+      "textures": "textures/items/ancient_tome_bundle_6"
     }
   }
 }
