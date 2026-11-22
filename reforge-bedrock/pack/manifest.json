@@ -1,0 +1,29 @@
+{
+  "format_version": 2,
+  "header": {
+    "name": "AAAI Reforge (Bedrock)",
+    "description": "Textures for the reforge stones, Add Slot and Re Slot",
+    "uuid": "8c491c22-ff17-5a34-84d9-e29bbd8faed3",
+    "version": [
+      1,
+      6,
+      2
+    ],
+    "min_engine_version": [
+      1,
+      21,
+      0
+    ]
+  },
+  "modules": [
+    {
+      "type": "resources",
+      "uuid": "4e497149-4986-5b8d-a6c2-d1a2134446ea",
+      "version": [
+        1,
+        6,
+        2
+      ]
+    }
+  ]
+}

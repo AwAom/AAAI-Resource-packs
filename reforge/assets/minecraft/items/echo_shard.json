@@ -1,0 +1,41 @@
+{
+  "model": {
+    "type": "minecraft:select",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "cases": [
+      {
+        "when": "reforge_universal_1",
+        "model": {
+          "type": "minecraft:model",
+          "model": "aaai:item/reforge_universal_1"
+        }
+      },
+      {
+        "when": "reforge_universal_2",
+        "model": {
+          "type": "minecraft:model",
+          "model": "aaai:item/reforge_universal_2"
+        }
+      },
+      {
+        "when": "reforge_universal_3",
+        "model": {
+          "type": "minecraft:model",
+          "model": "aaai:item/reforge_universal_3"
+        }
+      },
+      {
+        "when": "reforge_universal_4",
+        "model": {
+          "type": "minecraft:model",
+          "model": "aaai:item/reforge_universal_4"
+        }
+      }
+    ],
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/echo_shard"
+    }
+  }
+}

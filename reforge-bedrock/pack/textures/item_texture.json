@@ -1,0 +1,93 @@
+{
+  "resource_pack_name": "aaai_reforge",
+  "texture_name": "atlas.items",
+  "texture_data": {
+    "aaai_reforge.reforge_ghost_stone_1": {
+      "textures": "textures/items/reforge_ghost_stone_1"
+    },
+    "aaai_reforge.reforge_ghost_stone_2": {
+      "textures": "textures/items/reforge_ghost_stone_2"
+    },
+    "aaai_reforge.reforge_ghost_stone_3": {
+      "textures": "textures/items/reforge_ghost_stone_3"
+    },
+    "aaai_reforge.reforge_ghost_stone_4": {
+      "textures": "textures/items/reforge_ghost_stone_4"
+    },
+    "aaai_reforge.reforge_ghost_add_slot": {
+      "textures": "textures/items/reforge_ghost_add_slot"
+    },
+    "aaai_reforge.reforge_ghost_re_slot": {
+      "textures": "textures/items/reforge_ghost_re_slot"
+    },
+    "aaai_reforge.reforge_stone_1": {
+      "textures": "textures/items/reforge_stone_1"
+    },
+    "aaai_reforge.reforge_stone_2": {
+      "textures": "textures/items/reforge_stone_2"
+    },
+    "aaai_reforge.reforge_stone_3": {
+      "textures": "textures/items/reforge_stone_3"
+    },
+    "aaai_reforge.reforge_stone_4": {
+      "textures": "textures/items/reforge_stone_4"
+    },
+    "aaai_reforge.add_slot": {
+      "textures": "textures/items/add_slot"
+    },
+    "aaai_reforge.re_slot": {
+      "textures": "textures/items/re_slot"
+    },
+    "aaai_reforge.reforge_stat_atk": {
+      "textures": "textures/items/reforge_stat_atk"
+    },
+    "aaai_reforge.reforge_stat_agi": {
+      "textures": "textures/items/reforge_stat_agi"
+    },
+    "aaai_reforge.reforge_stat_reach": {
+      "textures": "textures/items/reforge_stat_reach"
+    },
+    "aaai_reforge.reforge_stat_pen": {
+      "textures": "textures/items/reforge_stat_pen"
+    },
+    "aaai_reforge.reforge_stat_oxygen": {
+      "textures": "textures/items/reforge_stat_oxygen"
+    },
+    "aaai_reforge.reforge_stat_def": {
+      "textures": "textures/items/reforge_stat_def"
+    },
+    "aaai_reforge.reforge_stat_vit": {
+      "textures": "textures/items/reforge_stat_vit"
+    },
+    "aaai_reforge.reforge_stat_fall": {
+      "textures": "textures/items/reforge_stat_fall"
+    },
+    "aaai_reforge.reforge_stat_mining": {
+      "textures": "textures/items/reforge_stat_mining"
+    },
+    "aaai_reforge.reforge_stat_dur": {
+      "textures": "textures/items/reforge_stat_dur"
+    },
+    "aaai_reforge.reforge_stat_int": {
+      "textures": "textures/items/reforge_stat_int"
+    },
+    "aaai_reforge.reforge_stat_random": {
+      "textures": "textures/items/reforge_stat_random"
+    },
+    "aaai_reforge.reforge_universal_1": {
+      "textures": "textures/items/reforge_universal_1"
+    },
+    "aaai_reforge.reforge_universal_2": {
+      "textures": "textures/items/reforge_universal_2"
+    },
+    "aaai_reforge.reforge_universal_3": {
+      "textures": "textures/items/reforge_universal_3"
+    },
+    "aaai_reforge.reforge_universal_4": {
+      "textures": "textures/items/reforge_universal_4"
+    },
+    "aaai_reforge.reforge_stat_bundle": {
+      "textures": "textures/items/reforge_stat_bundle"
+    }
+  }
+}
